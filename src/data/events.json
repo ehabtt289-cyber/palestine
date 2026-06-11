@@ -1,0 +1,101 @@
+[
+  {
+    "id": "ottoman",
+    "year": "1516–1917",
+    "title": { "ar": "العهد العثماني", "en": "Ottoman Era", "fr": "Époque ottomane" },
+    "description": {
+      "ar": "خضعت فلسطين للحكم العثماني لأربعة قرون، شهدت خلالها ازدهار المدن والأسواق والتراث المعماري.",
+      "en": "For four centuries Palestine was part of the Ottoman Empire, an era of vibrant cities, markets and architectural heritage.",
+      "fr": "Pendant quatre siècles, la Palestine fait partie de l'Empire ottoman, une époque de villes vibrantes et de patrimoine architectural."
+    },
+    "query": "Ottoman Palestine"
+  },
+  {
+    "id": "balfour",
+    "year": "1917",
+    "title": { "ar": "وعد بلفور", "en": "The Balfour Declaration", "fr": "La Déclaration Balfour" },
+    "description": {
+      "ar": "أصدرت بريطانيا وعد بلفور الذي مهّد لتحوّلات سياسية كبرى في فلسطين.",
+      "en": "Britain issued the Balfour Declaration, opening a new political chapter for Palestine.",
+      "fr": "La Grande-Bretagne publie la Déclaration Balfour, ouvrant un nouveau chapitre politique pour la Palestine."
+    },
+    "query": "Balfour Declaration"
+  },
+  {
+    "id": "mandate",
+    "year": "1920–1948",
+    "title": { "ar": "الانتداب البريطاني", "en": "British Mandate", "fr": "Mandat britannique" },
+    "description": {
+      "ar": "فترة الانتداب البريطاني شهدت توتّرات وثورات شعبية، أبرزها ثورة 1936.",
+      "en": "The British Mandate period saw tensions and popular uprisings, including the 1936 revolt.",
+      "fr": "Le mandat britannique connaît des tensions et des révoltes populaires, dont la révolte de 1936."
+    },
+    "query": "British Mandate Palestine"
+  },
+  {
+    "id": "nakba",
+    "year": "1948",
+    "title": { "ar": "النكبة", "en": "The Nakba", "fr": "La Nakba" },
+    "description": {
+      "ar": "تهجير أكثر من 750 ألف فلسطيني من قراهم ومدنهم، وتدمير مئات القرى.",
+      "en": "More than 750,000 Palestinians were displaced from their homes and hundreds of villages destroyed.",
+      "fr": "Plus de 750 000 Palestiniens sont déplacés et des centaines de villages détruits."
+    },
+    "query": "1948 Palestinian exodus"
+  },
+  {
+    "id": "naksa",
+    "year": "1967",
+    "title": { "ar": "النكسة", "en": "The Naksa", "fr": "La Naksa" },
+    "description": {
+      "ar": "حرب 1967 وما تبعها من احتلال الضفة الغربية وقطاع غزة والقدس الشرقية.",
+      "en": "The 1967 war and the subsequent occupation of the West Bank, Gaza and East Jerusalem.",
+      "fr": "La guerre de 1967 et l'occupation de la Cisjordanie, de Gaza et de Jérusalem-Est."
+    },
+    "query": "Six-Day War"
+  },
+  {
+    "id": "intifada1",
+    "year": "1987",
+    "title": { "ar": "الانتفاضة الأولى", "en": "First Intifada", "fr": "Première Intifada" },
+    "description": {
+      "ar": "انتفاضة شعبية واسعة عُرفت بانتفاضة الحجارة.",
+      "en": "A mass popular uprising known as the Stones Intifada.",
+      "fr": "Un soulèvement populaire massif, connu comme l'Intifada des pierres."
+    },
+    "query": "First Intifada"
+  },
+  {
+    "id": "oslo",
+    "year": "1993",
+    "title": { "ar": "اتفاقيات أوسلو", "en": "Oslo Accords", "fr": "Accords d'Oslo" },
+    "description": {
+      "ar": "اتفاقيات بين منظمة التحرير الفلسطينية وإسرائيل أسست للسلطة الفلسطينية.",
+      "en": "Agreements between the PLO and Israel that established the Palestinian Authority.",
+      "fr": "Accords entre l'OLP et Israël qui établissent l'Autorité palestinienne."
+    },
+    "query": "Oslo Accords"
+  },
+  {
+    "id": "intifada2",
+    "year": "2000",
+    "title": { "ar": "الانتفاضة الثانية", "en": "Second Intifada", "fr": "Seconde Intifada" },
+    "description": {
+      "ar": "اندلعت الانتفاضة الثانية بعد فشل المفاوضات.",
+      "en": "The Second Intifada erupted after the breakdown of negotiations.",
+      "fr": "La seconde Intifada éclate après l'échec des négociations."
+    },
+    "query": "Second Intifada"
+  },
+  {
+    "id": "today",
+    "year": "Today",
+    "title": { "ar": "اليوم", "en": "Today", "fr": "Aujourd'hui" },
+    "description": {
+      "ar": "يواصل الشعب الفلسطيني الحفاظ على هويته وتراثه وروايته.",
+      "en": "The Palestinian people continue to preserve their identity, heritage and narrative.",
+      "fr": "Le peuple palestinien continue de préserver son identité, son patrimoine et son récit."
+    },
+    "query": "Palestine culture today"
+  }
+]

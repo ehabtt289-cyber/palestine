@@ -1,0 +1,22 @@
+[
+  { "id": "jerusalem", "name": { "ar": "القدس", "en": "Jerusalem", "fr": "Jérusalem" }, "x": 52, "y": 48, "query": "Jerusalem Old City",
+    "info": { "ar": "العاصمة الأبدية، مهد الديانات وأقدم المدن المأهولة.", "en": "Eternal capital, cradle of religions and one of the oldest inhabited cities.", "fr": "Capitale éternelle, berceau des religions." } },
+  { "id": "gaza", "name": { "ar": "غزة", "en": "Gaza", "fr": "Gaza" }, "x": 18, "y": 60, "query": "Gaza city",
+    "info": { "ar": "مدينة ساحلية بتاريخ يعود لآلاف السنين.", "en": "A coastal city with thousands of years of history.", "fr": "Ville côtière millénaire." } },
+  { "id": "haifa", "name": { "ar": "حيفا", "en": "Haifa", "fr": "Haïfa" }, "x": 35, "y": 22, "query": "Haifa city",
+    "info": { "ar": "ميناء فلسطين الشمالي على البحر المتوسط.", "en": "Palestine's northern Mediterranean port.", "fr": "Port méditerranéen du nord." } },
+  { "id": "yafa", "name": { "ar": "يافا", "en": "Jaffa", "fr": "Jaffa" }, "x": 30, "y": 42, "query": "Jaffa Old City",
+    "info": { "ar": "عروس البحر، مدينة البرتقال والميناء العريق.", "en": "Bride of the sea, city of oranges and an ancient port.", "fr": "Fiancée de la mer, port antique." } },
+  { "id": "nablus", "name": { "ar": "نابلس", "en": "Nablus", "fr": "Naplouse" }, "x": 50, "y": 36, "query": "Nablus old city",
+    "info": { "ar": "جبل النار، عاصمة الصناعة والتراث.", "en": "Mount of Fire, capital of crafts and heritage.", "fr": "Capitale artisanale et patrimoniale." } },
+  { "id": "bethlehem", "name": { "ar": "بيت لحم", "en": "Bethlehem", "fr": "Bethléem" }, "x": 53, "y": 52, "query": "Bethlehem Church of the Nativity",
+    "info": { "ar": "مهد المسيح وكنيسة المهد.", "en": "Birthplace of Jesus and the Church of the Nativity.", "fr": "Lieu de naissance de Jésus." } },
+  { "id": "hebron", "name": { "ar": "الخليل", "en": "Hebron", "fr": "Hébron" }, "x": 50, "y": 60, "query": "Hebron Ibrahimi Mosque",
+    "info": { "ar": "مدينة الحرم الإبراهيمي والزجاج اليدوي.", "en": "Home of the Ibrahimi Mosque and traditional glass.", "fr": "Mosquée d'Abraham et verre artisanal." } },
+  { "id": "akka", "name": { "ar": "عكا", "en": "Acre", "fr": "Acre" }, "x": 36, "y": 16, "query": "Acre old city",
+    "info": { "ar": "مدينة الأسوار الصليبية والميناء التاريخي.", "en": "Crusader walls and a historic port.", "fr": "Murailles croisées et port historique." } },
+  { "id": "ramallah", "name": { "ar": "رام الله", "en": "Ramallah", "fr": "Ramallah" }, "x": 52, "y": 44, "query": "Ramallah",
+    "info": { "ar": "قلب فلسطين السياسي والثقافي المعاصر.", "en": "Contemporary political and cultural heart of Palestine.", "fr": "Cœur politique et culturel contemporain." } },
+  { "id": "tabaria", "name": { "ar": "طبريا", "en": "Tiberias", "fr": "Tibériade" }, "x": 50, "y": 22, "query": "Tiberias",
+    "info": { "ar": "على بحيرة طبريا، إرث ديني وحضاري.", "en": "On the shores of Lake Tiberias, with rich religious heritage.", "fr": "Au bord du lac de Tibériade." } }
+]

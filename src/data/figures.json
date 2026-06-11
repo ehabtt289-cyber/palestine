@@ -1,0 +1,50 @@
+[
+  {
+    "id": "darwish",
+    "name": { "ar": "محمود درويش", "en": "Mahmoud Darwish", "fr": "Mahmoud Darwich" },
+    "role": { "ar": "شاعر فلسطين", "en": "Poet of Palestine", "fr": "Poète de la Palestine" },
+    "bio": { "ar": "شاعر فلسطين الأكبر، ترجمت أعماله إلى أكثر من عشرين لغة.", "en": "Palestine's national poet, translated into more than twenty languages.", "fr": "Le poète national palestinien, traduit en plus de vingt langues." },
+    "legacy": { "ar": "صاغ الوجدان الفلسطيني الحديث.", "en": "Shaped the modern Palestinian consciousness.", "fr": "A façonné la conscience palestinienne moderne." },
+    "query": "Mahmoud Darwish"
+  },
+  {
+    "id": "kanafani",
+    "name": { "ar": "غسان كنفاني", "en": "Ghassan Kanafani", "fr": "Ghassan Kanafani" },
+    "role": { "ar": "روائي وصحفي", "en": "Novelist and journalist", "fr": "Romancier et journaliste" },
+    "bio": { "ar": "روائي فلسطيني وكاتب رجال في الشمس وعائد إلى حيفا.", "en": "Palestinian novelist, author of Men in the Sun and Returning to Haifa.", "fr": "Romancier palestinien, auteur de Des hommes dans le soleil." },
+    "legacy": { "ar": "أرسى أدب المقاومة الفلسطيني.", "en": "Founder of Palestinian resistance literature.", "fr": "Père de la littérature de résistance palestinienne." },
+    "query": "Ghassan Kanafani"
+  },
+  {
+    "id": "tamimi",
+    "name": { "ar": "فدوى طوقان", "en": "Fadwa Tuqan", "fr": "Fadwa Touqan" },
+    "role": { "ar": "شاعرة", "en": "Poet", "fr": "Poète" },
+    "bio": { "ar": "من أبرز شاعرات الوطن العربي، عُرفت بشعر المقاومة والذاتية.", "en": "One of the most important Arab poets, known for her resistance and personal poetry.", "fr": "Poétesse arabe majeure." },
+    "legacy": { "ar": "صوت المرأة الفلسطينية في الشعر.", "en": "The voice of Palestinian women in poetry.", "fr": "La voix poétique des femmes palestiniennes." },
+    "query": "Fadwa Tuqan"
+  },
+  {
+    "id": "said",
+    "name": { "ar": "إدوارد سعيد", "en": "Edward Said", "fr": "Edward Saïd" },
+    "role": { "ar": "مفكر وأكاديمي", "en": "Thinker and academic", "fr": "Penseur et universitaire" },
+    "bio": { "ar": "مفكر فلسطيني أمريكي، مؤلف كتاب الاستشراق.", "en": "Palestinian-American thinker, author of Orientalism.", "fr": "Penseur palestino-américain, auteur de L'Orientalisme." },
+    "legacy": { "ar": "أعاد تشكيل دراسات ما بعد الاستعمار.", "en": "Reshaped postcolonial studies.", "fr": "A reformé les études postcoloniales." },
+    "query": "Edward Said"
+  },
+  {
+    "id": "mansour",
+    "name": { "ar": "سليمان منصور", "en": "Sliman Mansour", "fr": "Sliman Mansour" },
+    "role": { "ar": "فنان تشكيلي", "en": "Visual artist", "fr": "Artiste plasticien" },
+    "bio": { "ar": "من أبرز الفنانين الفلسطينيين المعاصرين، صاحب لوحة جمل المحامل.", "en": "Leading contemporary Palestinian artist, creator of Jamal al-Mahamel.", "fr": "Artiste palestinien contemporain majeur." },
+    "legacy": { "ar": "رسم رموز الهوية الفلسطينية.", "en": "Painted the icons of Palestinian identity.", "fr": "A peint les icônes de l'identité palestinienne." },
+    "query": "Sliman Mansour"
+  },
+  {
+    "id": "tawil",
+    "name": { "ar": "ليلى خالد", "en": "Leila Khaled", "fr": "Leila Khaled" },
+    "role": { "ar": "مناضلة", "en": "Activist", "fr": "Militante" },
+    "bio": { "ar": "ناشطة فلسطينية اشتهرت في ستينيات وسبعينيات القرن الماضي.", "en": "Palestinian activist who rose to prominence in the 1960s and 70s.", "fr": "Militante palestinienne emblématique des années 1960-70." },
+    "legacy": { "ar": "رمز نضالي في الذاكرة الجماعية.", "en": "An icon in the collective memory of struggle.", "fr": "Icône dans la mémoire collective." },
+    "query": "Leila Khaled"
+  }
+]
