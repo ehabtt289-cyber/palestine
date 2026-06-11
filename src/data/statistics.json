@@ -1,0 +1,32 @@
+{
+  "population": [
+    { "region": "West Bank", "regionAr": "الضفة الغربية", "regionFr": "Cisjordanie", "value": 3190000 },
+    { "region": "Gaza Strip", "regionAr": "قطاع غزة", "regionFr": "Gaza", "value": 2200000 },
+    { "region": "Israel (1948)", "regionAr": "أراضي 48", "regionFr": "Israël (1948)", "value": 1700000 },
+    { "region": "Jordan", "regionAr": "الأردن", "regionFr": "Jordanie", "value": 3240000 },
+    { "region": "Lebanon", "regionAr": "لبنان", "regionFr": "Liban", "value": 480000 },
+    { "region": "Syria", "regionAr": "سوريا", "regionFr": "Syrie", "value": 580000 },
+    { "region": "Diaspora", "regionAr": "الشتات", "regionFr": "Diaspora", "value": 700000 }
+  ],
+  "refugees": [
+    { "year": "1950", "value": 750000 },
+    { "year": "1970", "value": 1450000 },
+    { "year": "1990", "value": 2400000 },
+    { "year": "2000", "value": 3800000 },
+    { "year": "2010", "value": 4800000 },
+    { "year": "2020", "value": 5700000 },
+    { "year": "2024", "value": 6000000 }
+  ],
+  "landUse": [
+    { "name": "Olive Groves", "nameAr": "زيتون", "nameFr": "Oliveraies", "value": 45 },
+    { "name": "Farmland", "nameAr": "أراضٍ زراعية", "nameFr": "Terres agricoles", "value": 30 },
+    { "name": "Urban", "nameAr": "حضري", "nameFr": "Urbain", "value": 15 },
+    { "name": "Forest", "nameAr": "غابات", "nameFr": "Forêts", "value": 10 }
+  ],
+  "counters": [
+    { "label": { "ar": "عدد السكان", "en": "Population", "fr": "Population" }, "value": 14000000, "suffix": "+" },
+    { "label": { "ar": "سنة من التاريخ", "en": "Years of history", "fr": "Années d'histoire" }, "value": 5000, "suffix": "+" },
+    { "label": { "ar": "قرية مهجّرة", "en": "Depopulated villages", "fr": "Villages dépeuplés" }, "value": 530 },
+    { "label": { "ar": "موقع تراثي", "en": "Heritage sites", "fr": "Sites patrimoniaux" }, "value": 200, "suffix": "+" }
+  ]
+}

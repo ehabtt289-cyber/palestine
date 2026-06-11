@@ -1,0 +1,23 @@
+{
+  "food": [
+    { "id": "musakhan", "name": { "ar": "المسخّن", "en": "Musakhan", "fr": "Musakhan" }, "desc": { "ar": "الطبق الوطني الفلسطيني، دجاج وسماق وبصل على خبز الطابون.", "en": "Palestine's national dish — chicken, sumac and onions on taboon bread.", "fr": "Plat national palestinien." }, "query": "Musakhan" },
+    { "id": "maqluba", "name": { "ar": "المقلوبة", "en": "Maqluba", "fr": "Maqluba" }, "desc": { "ar": "أرز وخضار ولحم يُقلب عند التقديم.", "en": "Layered rice, vegetables and meat flipped to serve.", "fr": "Riz, légumes et viande retournés." }, "query": "Maqluba" },
+    { "id": "knafeh", "name": { "ar": "الكنافة النابلسية", "en": "Knafeh Nabulsieh", "fr": "Knafeh de Naplouse" }, "desc": { "ar": "حلوى نابلس الشهيرة بالجبن والقطر.", "en": "Nablus's famed cheese pastry in syrup.", "fr": "Pâtisserie au fromage de Naplouse." }, "query": "Knafeh" },
+    { "id": "zaatar", "name": { "ar": "الزعتر والزيت", "en": "Za'atar & Olive Oil", "fr": "Za'atar et huile d'olive" }, "desc": { "ar": "رمز المائدة الفلسطينية اليومية.", "en": "An everyday emblem of the Palestinian table.", "fr": "Symbole quotidien de la table palestinienne." }, "query": "Zaatar Palestine" }
+  ],
+  "clothing": [
+    { "id": "thobe", "name": { "ar": "الثوب الفلسطيني", "en": "Palestinian Thobe", "fr": "Robe palestinienne" }, "desc": { "ar": "ثوب مطرّز يدوياً، يحمل رموز كل قرية.", "en": "A hand-embroidered dress carrying the symbols of each village.", "fr": "Robe brodée à la main." }, "query": "Palestinian thobe dress" },
+    { "id": "keffiyeh", "name": { "ar": "الكوفية", "en": "Keffiyeh", "fr": "Keffieh" }, "desc": { "ar": "الكوفية البيضاء والسوداء رمز الهوية.", "en": "The black-and-white keffiyeh — a symbol of identity.", "fr": "Symbole d'identité." }, "query": "Keffiyeh" }
+  ],
+  "tatreez": [
+    { "id": "tatreez", "name": { "ar": "التطريز الفلسطيني", "en": "Tatreez", "fr": "Tatreez" }, "desc": { "ar": "فن تطريز عمره مئات السنين، أُدرج في قائمة اليونسكو للتراث.", "en": "Centuries-old embroidery, inscribed on the UNESCO heritage list.", "fr": "Broderie séculaire inscrite à l'UNESCO." }, "query": "Palestinian embroidery tatreez" }
+  ],
+  "dabke": [
+    { "id": "dabke", "name": { "ar": "الدبكة", "en": "Dabke", "fr": "Dabké" }, "desc": { "ar": "رقصة شعبية جماعية، ضربات الأقدام تحكي قصة الأرض.", "en": "A communal folk dance — stomping feet that tell the story of the land.", "fr": "Danse folklorique collective." }, "query": "Dabke dance" }
+  ],
+  "heritage": [
+    { "id": "aqsa", "name": { "ar": "المسجد الأقصى", "en": "Al-Aqsa Mosque", "fr": "Mosquée Al-Aqsa" }, "desc": { "ar": "ثالث الحرمين الشريفين.", "en": "The third holiest site in Islam.", "fr": "Troisième lieu saint de l'Islam." }, "query": "Al-Aqsa Mosque" },
+    { "id": "nativity", "name": { "ar": "كنيسة المهد", "en": "Church of the Nativity", "fr": "Basilique de la Nativité" }, "desc": { "ar": "موقع ولادة المسيح في بيت لحم.", "en": "Birthplace of Jesus in Bethlehem.", "fr": "Lieu de naissance de Jésus." }, "query": "Church of the Nativity" },
+    { "id": "sebastia", "name": { "ar": "سبسطية", "en": "Sebastia", "fr": "Sébaste" }, "desc": { "ar": "مدينة أثرية رومانية قرب نابلس.", "en": "Roman archaeological site near Nablus.", "fr": "Site archéologique romain." }, "query": "Sebastia Palestine" }
+  ]
+}
