@@ -11,6 +11,7 @@
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as TimelineRouteImport } from './routes/timeline'
 import { Route as StatisticsRouteImport } from './routes/statistics'
+import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
 import { Route as MapRouteImport } from './routes/map'
 import { Route as GalleryRouteImport } from './routes/gallery'
 import { Route as FiguresRouteImport } from './routes/figures'
@@ -26,6 +27,11 @@ const TimelineRoute = TimelineRouteImport.update({
 const StatisticsRoute = StatisticsRouteImport.update({
   id: '/statistics',
   path: '/statistics',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
+  id: '/sitemap.xml',
+  path: '/sitemap.xml',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MapRoute = MapRouteImport.update({
@@ -66,6 +72,7 @@ export interface FileRoutesByFullPath {
   '/figures': typeof FiguresRoute
   '/gallery': typeof GalleryRoute
   '/map': typeof MapRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/statistics': typeof StatisticsRoute
   '/timeline': typeof TimelineRoute
 }
@@ -76,6 +83,7 @@ export interface FileRoutesByTo {
   '/figures': typeof FiguresRoute
   '/gallery': typeof GalleryRoute
   '/map': typeof MapRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/statistics': typeof StatisticsRoute
   '/timeline': typeof TimelineRoute
 }
@@ -87,6 +95,7 @@ export interface FileRoutesById {
   '/figures': typeof FiguresRoute
   '/gallery': typeof GalleryRoute
   '/map': typeof MapRoute
+  '/sitemap.xml': typeof SitemapDotxmlRoute
   '/statistics': typeof StatisticsRoute
   '/timeline': typeof TimelineRoute
 }
@@ -99,6 +108,7 @@ export interface FileRouteTypes {
     | '/figures'
     | '/gallery'
     | '/map'
+    | '/sitemap.xml'
     | '/statistics'
     | '/timeline'
   fileRoutesByTo: FileRoutesByTo
@@ -109,6 +119,7 @@ export interface FileRouteTypes {
     | '/figures'
     | '/gallery'
     | '/map'
+    | '/sitemap.xml'
     | '/statistics'
     | '/timeline'
   id:
@@ -119,6 +130,7 @@ export interface FileRouteTypes {
     | '/figures'
     | '/gallery'
     | '/map'
+    | '/sitemap.xml'
     | '/statistics'
     | '/timeline'
   fileRoutesById: FileRoutesById
@@ -130,6 +142,7 @@ export interface RootRouteChildren {
   FiguresRoute: typeof FiguresRoute
   GalleryRoute: typeof GalleryRoute
   MapRoute: typeof MapRoute
+  SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   StatisticsRoute: typeof StatisticsRoute
   TimelineRoute: typeof TimelineRoute
 }
@@ -148,6 +161,13 @@ declare module '@tanstack/react-router' {
       path: '/statistics'
       fullPath: '/statistics'
       preLoaderRoute: typeof StatisticsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/sitemap.xml': {
+      id: '/sitemap.xml'
+      path: '/sitemap.xml'
+      fullPath: '/sitemap.xml'
+      preLoaderRoute: typeof SitemapDotxmlRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/map': {
@@ -202,6 +222,7 @@ const rootRouteChildren: RootRouteChildren = {
   FiguresRoute: FiguresRoute,
   GalleryRoute: GalleryRoute,
   MapRoute: MapRoute,
+  SitemapDotxmlRoute: SitemapDotxmlRoute,
   StatisticsRoute: StatisticsRoute,
   TimelineRoute: TimelineRoute,
 }
