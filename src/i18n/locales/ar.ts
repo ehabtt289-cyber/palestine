@@ -51,6 +51,12 @@ export const ar = {
     subtitle: "أصوات وقادة وفنانون من فلسطين.",
     biography: "السيرة",
     achievements: "الإرث",
+    readMore: "اعرف المزيد",
+    born: "تاريخ الميلاد",
+    died: "تاريخ الوفاة",
+    birthplace: "مكان الميلاد",
+    details: "تفاصيل",
+    stillLiving: "على قيد الحياة",
   },
   stats: {
     title: "إحصائيات",
