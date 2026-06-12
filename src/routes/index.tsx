@@ -219,12 +219,15 @@ function HomePage() {
 function Counter({ item, lang }: { item: { value: number; suffix?: string; label: Localized }; lang: any }) {
   const { ref, value } = useCountUp(item.value);
   return (
-    <motion.div variants={fadeUp} className="glass hover-lift rounded-2xl p-6 text-center shadow-cinema">
-      <span ref={ref} className="block font-display text-3xl font-bold text-gradient-gold md:text-5xl">
+    <motion.div variants={fadeUp} className="glass hover-lift rounded-2xl p-4 text-center shadow-cinema md:p-6">
+      <span
+        ref={ref}
+        className="block break-all font-display text-xl font-bold leading-tight text-gradient-gold sm:text-2xl md:text-4xl lg:text-5xl"
+      >
         {value.toLocaleString()}
         {item.suffix ?? ""}
       </span>
-      <p className="mt-2 text-xs uppercase tracking-wider text-muted-foreground">
+      <p className="mt-2 text-[10px] uppercase tracking-wider text-muted-foreground md:text-xs">
         {pick(item.label, lang)}
       </p>
     </motion.div>
