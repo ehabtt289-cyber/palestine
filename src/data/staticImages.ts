@@ -80,44 +80,303 @@ export const STATIC_IMAGES: Record<string, string[]> = {
     "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/%D7%A6%D7%A0%D7%97%D7%A0%D7%99%D7%9D_%D7%91%D7%9B%D7%95%D7%AA%D7%9C_%D7%94%D7%9E%D7%A2%D7%A8%D7%91%D7%99.jpg/1280px-%D7%A6%D7%A0%D7%97%D7%A0%D7%99%D7%9D_%D7%91%D7%9B%D7%95%D7%AA%D7%9C_%D7%94%D7%9E%D7%A2%D7%A8%D7%91%D7%99.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Map_of_1889_Six_Day_War.svg/1280px-Map_of_1889_Six_Day_War.svg.png"
   ],
-  "First Intifada": [],
-  "Oslo Accords": [],
-  "Second Intifada": [],
-  "Palestine culture today": [],
-  "Mahmoud Darwish": [],
-  "Ghassan Kanafani": [],
-  "Fadwa Tuqan": [],
-  "Edward Said": [],
-  "Sliman Mansour": [],
-  "Leila Khaled": [],
-  "Jerusalem Old City": [],
-  "Jerusalem old city": [],
-  "Gaza city": [],
-  "Haifa city": [],
-  "Jaffa Old City": [],
-  "Nablus old city": [],
-  "Bethlehem Church of the Nativity": [],
-  "Hebron Ibrahimi Mosque": [],
-  "Acre old city": [],
-  "Ramallah": [],
-  "Tiberias": [],
-  "Musakhan": [],
-  "Maqluba": [],
-  "Knafeh": [],
-  "Knafeh Nabulsieh": [],
-  "Zaatar Palestine": [],
-  "Palestinian thobe": [],
-  "Palestinian thobe dress": [],
-  "Keffiyeh": [],
-  "Palestinian tatreez embroidery": [],
-  "Palestinian embroidery tatreez": [],
-  "Dabke": [],
-  "Dabke dance": [],
-  "Palestinian culture": [],
-  "Palestinian art": [],
-  "Al-Aqsa Mosque": [],
-  "Church of the Nativity": [],
-  "Sebastia Palestine": []
+  "First Intifada": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/5e/IDF_during_the_First_Intifada_I.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/IDF_during_the_First_Intifada_II.jpg/1280px-IDF_during_the_First_Intifada_II.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6c/IDF_during_the_First_Intifada_III.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/5e/IDF_during_the_First_Intifada_IV.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/06/IDF_during_the_First_Intifada_V.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/3a/IDF_during_the_First_Intifada_VI.jpg"
+  ],
+  "Oslo Accords": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg/1280px-Bill_Clinton%2C_Yitzhak_Rabin%2C_Yasser_Arafat_at_the_White_House_1993-09-13.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flickr_-_Government_Press_Office_%28GPO%29_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg/1280px-Flickr_-_Government_Press_Office_%28GPO%29_-_THE_NOBEL_PEACE_PRIZE_LAUREATES_FOR_1994_IN_OSLO..jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg/1280px-Control_status_of_the_West_Bank_as_per_the_Oslo_Accords.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Oslo_II_accords_signature_page.jpg/1280px-Oslo_II_accords_signature_page.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/1d/Oslo_II_Accord_map_of_Area_A_and_B.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/The_Rabin_couple_on_their_way_to_the_signing_ceremony_of_the_Oslo_II_Accord%2C_September_1995_Dan_Hadani_Archive.jpg/1280px-The_Rabin_couple_on_their_way_to_the_signing_ceremony_of_the_Oslo_II_Accord%2C_September_1995_Dan_Hadani_Archive.jpg"
+  ],
+  "Second Intifada": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Intifada_deaths.svg/1280px-Intifada_deaths.svg.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Barrier_near_Bat_Hefer_during_Second_intifada_October_2001.JPG/1280px-Barrier_near_Bat_Hefer_during_Second_intifada_October_2001.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6f/Autobus_v_Haif%C4%9B.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Flickr_-_Israel_Defense_Forces_-_Standing_Guard_in_Nablus.jpg/1280px-Flickr_-_Israel_Defense_Forces_-_Standing_Guard_in_Nablus.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8_2000_2.jpg/1280px-%D7%90%D7%95%D7%A7%D7%98%D7%95%D7%91%D7%A8_2000_2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2b/Residents_run_away_during_a_home_demolition_in_Gaza_during_the_second_intifada.jpg"
+  ],
+  "Palestine culture today": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/42/COLLECTIE_TROPENMUSEUM_Olieverfschildering_voorstellend_het_Tondano-meer_te_Sulawesi_toegeschreven_aan_C.W.M._van_de_Velde_TMnr_4108-237.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/East_Jerusalem_Batch_2_%2852%29.jpg/1280px-East_Jerusalem_Batch_2_%2852%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Fields_at_the_Riverton_Site.jpg/1280px-Fields_at_the_Riverton_Site.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Jaffa_port_%289869861106%29.jpg/1280px-Jaffa_port_%289869861106%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Benares%2C_1913_Rijksmuseum_SK-A-4975.jpeg/1280px-Benares%2C_1913_Rijksmuseum_SK-A-4975.jpeg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/VISUEL_MDA.jpg/1280px-VISUEL_MDA.jpg"
+  ],
+  "Mahmoud Darwish": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/68/Arafat_Darwish_Habash.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/MahmoudDarwish.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Mahmoud_Darwish_tag.jpg/1280px-Mahmoud_Darwish_tag.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b2/Mahmoud_Darwish-_Poet_al_Palestinei.png",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f0/Arafat_Darwish_Habash_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mahmoud_Darwish.jpg/1280px-Mahmoud_Darwish.jpg"
+  ],
+  "Ghassan Kanafani": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/11/Thawrah_Hawamidah_-_Feb_11%2C_2018.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ad/Anni_Kanafani_in_Beirut%2C_1992.jpg"
+  ],
+  "Fadwa Tuqan": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ancient_ruins_in_a_Nablus_neighborhood.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_01.jpg/1280px-Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_01.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_02.jpg/1280px-Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_02.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_03.jpg/1280px-Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_03.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_05.jpg/1280px-Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_05.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_06.jpg/1280px-Arce_y_Valiente_en_la_inauguraci%C3%B3n_del_Jard%C3%ADn_de_Palestina_06.jpg"
+  ],
+  "Edward Said": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Edward_Said_and_Daniel_Barenboim_in_Sevilla%2C_2002.jpg/1280px-Edward_Said_and_Daniel_Barenboim_in_Sevilla%2C_2002.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Edward_Said.jpg/1280px-Edward_Said.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f8/Edward_Said_and_Daniel_Barenboim_in_Sevilla%2C_2002_%28Said%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c8/Edward_W._Said_Orientalismus_Fischer_2009_Titel.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/9d/Edward_W._Said_Orientalismus_Ullstein_1981_Titel.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/12/Edward_Said....Every_Single_Empire_%283205819303%29.jpg"
+  ],
+  "Sliman Mansour": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Inash_Al-Usra_Mural%2C_Sliman_Mansour_and_Nabil_Anani.jpg/1280px-Inash_Al-Usra_Mural%2C_Sliman_Mansour_and_Nabil_Anani.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Sliman_Mansour.jpg/1280px-Sliman_Mansour.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sliman_Mansour_by_Fares_S._Mansour.jpg/1280px-Sliman_Mansour_by_Fares_S._Mansour.jpg"
+  ],
+  "Leila Khaled": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6f/Leila_Khaled_in_Damascus.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e9/Leila_Khaled.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/R%C3%B6d_Front_Leila_Khaled_2.JPG/1280px-R%C3%B6d_Front_Leila_Khaled_2.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/4/4d/Leila_Khaled_rised_punch.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Leila_Khaled_in_2017_Barcelona%27s_Literal_Fair.jpg/1280px-Leila_Khaled_in_2017_Barcelona%27s_Literal_Fair.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/63/Leila_Khaled_%28cropped%29.jpg"
+  ],
+  "Jerusalem Old City": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ISR-2013-Jerusalem-Holy_Sepulchre-dome.jpg/1280px-ISR-2013-Jerusalem-Holy_Sepulchre-dome.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Old_City_Walls_and_Tower_of_David_in_Jerusalem_%282019%29_03.jpg/1280px-Old_City_Walls_and_Tower_of_David_in_Jerusalem_%282019%29_03.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Old_City_of_Jerusalem_map_by_Survey_of_Palestine_map_1-2%2C500.jpg/1280px-Old_City_of_Jerusalem_map_by_Survey_of_Palestine_map_1-2%2C500.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_Bukharan_dance_performed_by_members_of_the_Rina_Nikova_ballet_in_the_citadel_of_Jerusalem_-_Restoration.jpg/1280px-A_Bukharan_dance_performed_by_members_of_the_Rina_Nikova_ballet_in_the_citadel_of_Jerusalem_-_Restoration.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jerusalem_Old_City_location_map.png/1280px-Jerusalem_Old_City_location_map.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jerusalem_Old_City_Street.jpg/1280px-Jerusalem_Old_City_Street.jpg"
+  ],
+  "Jerusalem old city": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/ISR-2013-Jerusalem-Holy_Sepulchre-dome.jpg/1280px-ISR-2013-Jerusalem-Holy_Sepulchre-dome.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Old_City_Walls_and_Tower_of_David_in_Jerusalem_%282019%29_03.jpg/1280px-Old_City_Walls_and_Tower_of_David_in_Jerusalem_%282019%29_03.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Old_City_of_Jerusalem_map_by_Survey_of_Palestine_map_1-2%2C500.jpg/1280px-Old_City_of_Jerusalem_map_by_Survey_of_Palestine_map_1-2%2C500.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/A_Bukharan_dance_performed_by_members_of_the_Rina_Nikova_ballet_in_the_citadel_of_Jerusalem_-_Restoration.jpg/1280px-A_Bukharan_dance_performed_by_members_of_the_Rina_Nikova_ballet_in_the_citadel_of_Jerusalem_-_Restoration.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jerusalem_Old_City_location_map.png/1280px-Jerusalem_Old_City_location_map.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Jerusalem_Old_City_Street.jpg/1280px-Jerusalem_Old_City_Street.jpg"
+  ],
+  "Gaza city": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gaza_City.JPG/1280px-Gaza_City.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/8/8d/WMC_Gaza_City.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg/1280px-Damage_in_Gaza_Strip_during_the_October_2023_-_29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Gaza_city_access_and_closure_july_2018.png/1280px-Gaza_city_access_and_closure_july_2018.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/A_girl_walks_inside_Gaza_during_the_Gaza-Israel_war_to_get_food.png/1280px-A_girl_walks_inside_Gaza_during_the_Gaza-Israel_war_to_get_food.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Israeli_airstrike_on_Gaza_Strip_during_Gaza_War_23-25.png/1280px-Israeli_airstrike_on_Gaza_Strip_during_Gaza_War_23-25.png"
+  ],
+  "Haifa city": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Haifa_Theatre_0401.jpg/1280px-Haifa_Theatre_0401.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Haifa_City_Museum_Balcony.jpg/1280px-Haifa_City_Museum_Balcony.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Gay_Pride_in_Haifa_2014_-_Haifa_City_hall_%285%29.JPG/1280px-Gay_Pride_in_Haifa_2014_-_Haifa_City_hall_%285%29.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Gay_Pride_in_Haifa_2014_-_Haifa_City_hall_%2833%29.JPG/1280px-Gay_Pride_in_Haifa_2014_-_Haifa_City_hall_%2833%29.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/The_old_poor_neighbourhood_of_Haifa_%28FL45853556%29.jpg/1280px-The_old_poor_neighbourhood_of_Haifa_%28FL45853556%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_old_poor_neighbourhood_of_Haifa_%28FL45853611%29.jpg/1280px-The_old_poor_neighbourhood_of_Haifa_%28FL45853611%29.jpg"
+  ],
+  "Jaffa Old City": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/ISR-2013-Aerial-Jaffa-Port_of_Jaffa.jpg/1280px-ISR-2013-Aerial-Jaffa-Port_of_Jaffa.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Old_Jaffa_in_the_evening.jpg/1280px-Old_Jaffa_in_the_evening.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Old_Jaffa%2C_August_2014_01.jpg/1280px-Old_Jaffa%2C_August_2014_01.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Old_Jaffa%2C_August_2014_04.jpg/1280px-Old_Jaffa%2C_August_2014_04.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Old_Jaffa%2C_August_2014_06.jpg/1280px-Old_Jaffa%2C_August_2014_06.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Old_Jaffa%2C_August_2014_07.jpg/1280px-Old_Jaffa%2C_August_2014_07.jpg"
+  ],
+  "Nablus old city": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Nablus_old_city_4.jpg/1280px-Nablus_old_city_4.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nablus_old_city_5.jpg/1280px-Nablus_old_city_5.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Nablus_old_city_6.jpg/1280px-Nablus_old_city_6.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Nablus_old_city_7.jpg/1280px-Nablus_old_city_7.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Nablus_old_city_8.jpg/1280px-Nablus_old_city_8.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Nablus_old_city_12.jpg/1280px-Nablus_old_city_12.jpg"
+  ],
+  "Bethlehem Church of the Nativity": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2e/Catholic_section_of_the_Church_of_Nativity_in_Bethlehem.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity%2C_Bethlehem%2C_Palestine2.jpg/1280px-Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity%2C_Bethlehem%2C_Palestine2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Catholic_Grottos_under_the_Church_of_the_Nativity%2C_Bethlehem%2C_Palestine5.jpg/1280px-Catholic_Grottos_under_the_Church_of_the_Nativity%2C_Bethlehem%2C_Palestine5.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Church_of_the_Nativity_%287703592746%29.jpg/1280px-Church_of_the_Nativity_%287703592746%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Church_of_the_Nativity_%28Bethlehem%29_03.jpg/1280px-Church_of_the_Nativity_%28Bethlehem%29_03.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Church_of_the_Nativity_%28Bethlehem%29_02.jpg/1280px-Church_of_the_Nativity_%28Bethlehem%29_02.jpg"
+  ],
+  "Hebron Ibrahimi Mosque": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/16-03-31-Hebron-Altstadt-RalfR-WAT_5692.jpg/1280px-16-03-31-Hebron-Altstadt-RalfR-WAT_5692.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_I.jpg/1280px-Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_I.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_III.jpg/1280px-Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_III.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_VII.jpg/1280px-Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_VII.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_X.jpg/1280px-Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_X.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_XIII.jpg/1280px-Clashes_following_the_Cave_of_the_Patriarchs_massacre%2C_1994_Dan_Hadani_Archive_XIII.jpg"
+  ],
+  "Acre old city": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Old_City_Street_Scene_-_Akko_%28Acre%29_-_Israel_-_01_%285693197091%29.jpg/1280px-Old_City_Street_Scene_-_Akko_%28Acre%29_-_Israel_-_01_%285693197091%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Old_City_Battlements_with_Spring_Wildflowers_-_Akko_%28Acre%29_-_Israel_%285693924514%29.jpg/1280px-Old_City_Battlements_with_Spring_Wildflowers_-_Akko_%28Acre%29_-_Israel_%285693924514%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Acre_%28city%29_%2814889177528%29.jpg/1280px-Acre_%28city%29_%2814889177528%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Acre_%28city%29_%2815052787226%29.jpg/1280px-Acre_%28city%29_%2815052787226%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Panoramic_view_of_the_old_city_of_Acre_%2811_April%2C_2015%29.I.jpg/1280px-Panoramic_view_of_the_old_city_of_Acre_%2811_April%2C_2015%29.I.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Police_station_and_Acre_Wall._Acre%2C_Old_City_%28SRF_5%3B_284%29.jpg/1280px-The_Police_station_and_Acre_Wall._Acre%2C_Old_City_%28SRF_5%3B_284%29.jpg"
+  ],
+  "Ramallah": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ramallah_woman2.jpg/1280px-Ramallah_woman2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Ramallah_spinner2.jpg/1280px-Ramallah_spinner2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Wikipedia_20_in_Palestine_-_Ramallah_06.jpg/1280px-Wikipedia_20_in_Palestine_-_Ramallah_06.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Air_Pollution_Over_Ramallah_Palestine.jpg/1280px-Air_Pollution_Over_Ramallah_Palestine.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/An_agriculture_exhibition_for_the_Arab_population_was_opened_at_Ramallah_showing_the_sophisticated_mashinery_nowadays_%28FL50350152%29.jpg/1280px-An_agriculture_exhibition_for_the_Arab_population_was_opened_at_Ramallah_showing_the_sophisticated_mashinery_nowadays_%28FL50350152%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Ramallah_2024.jpg/1280px-Ramallah_2024.jpg"
+  ],
+  "Tiberias": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Lake_Tiberias_%28Sea_of_Galilee%29%2C_Northern_Israel.jpg/1280px-Lake_Tiberias_%28Sea_of_Galilee%29%2C_Northern_Israel.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Moshe_Ganbash_-_Shiviti_-_Google_Art_Project.jpg/1280px-Moshe_Ganbash_-_Shiviti_-_Google_Art_Project.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TIBERIAS_-_GALILEE_%287723477802%29.jpg/1280px-TIBERIAS_-_GALILEE_%287723477802%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/5a/Tiberias._Ottoman_period._P03093.019.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Tiberias_from_Route_767_%2802%29.jpg/1280px-Tiberias_from_Route_767_%2802%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6d/Scots_Hotel_Tiberias.jpg"
+  ],
+  "Musakhan": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Lch_%2820%29.JPEG/1280px-Lch_%2820%29.JPEG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Mushakhan_Dish.jpg/1280px-Mushakhan_Dish.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a1/Mschan11.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a7/%D9%85%D8%B3%D8%AE%D9%86.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/67/%D8%A7%D9%84%D9%85%D8%B3%D8%AE%D9%86_%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A_%D8%B9%D9%84%D9%89_%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%D8%A9_%D8%A7%D9%84%D8%B4%D9%85%D8%A7%D9%84%D9%8A%D8%A9.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Musakhan_JO_1.jpg/1280px-Musakhan_JO_1.jpg"
+  ],
+  "Maqluba": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Maqloubeh.JPG/1280px-Maqloubeh.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Makluba.JPG/1280px-Makluba.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Malta_-_Qrendi_-_Misrah_tal-Maqluba_-_Il-Maqluba_13_ies.jpg/1280px-Malta_-_Qrendi_-_Misrah_tal-Maqluba_-_Il-Maqluba_13_ies.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Malta_-_Qrendi_-_Misrah_tal-Maqluba_-_Il-Maqluba_17_ies.jpg/1280px-Malta_-_Qrendi_-_Misrah_tal-Maqluba_-_Il-Maqluba_17_ies.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/%D8%B7%D8%A8%D8%AE%D8%A9_%D8%A7%D9%84%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_Maqluba.jpg/1280px-%D8%B7%D8%A8%D8%AE%D8%A9_%D8%A7%D9%84%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_Maqluba.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9.jpg/1280px-%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9.jpg"
+  ],
+  "Knafeh": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/2019_Marin_Greek_Festival_-_Sarah_Stierch_05.jpg/1280px-2019_Marin_Greek_Festival_-_Sarah_Stierch_05.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Knafeh_in_Jaffa_cafe.jpg/1280px-Knafeh_in_Jaffa_cafe.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Knafeh_From_Yaffa_Knafeh.jpg/1280px-Knafeh_From_Yaffa_Knafeh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chicken_with_Yemeni_mandi_spices_over_rice_and_knafeh.jpg/1280px-Chicken_with_Yemeni_mandi_spices_over_rice_and_knafeh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/42/Knafeh_in_Nazareth%2C_Israel.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Knafeh_khishneh.jpg/1280px-Knafeh_khishneh.jpg"
+  ],
+  "Knafeh Nabulsieh": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/44/Kanafeh_Nabulsieh.jpg"
+  ],
+  "Zaatar Palestine": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Israeli_zaatar_manakeesh.jpg/1280px-Israeli_zaatar_manakeesh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Palestinian_fatayer_zaatar.jpg/1280px-Palestinian_fatayer_zaatar.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/2d/%D9%86%D8%B5%D8%A8_%D8%B4%D9%87%D8%AF%D8%A7%D8%A1_%D9%85%D8%AC%D8%B2%D8%B1%D8%A9_%D8%AA%D9%84_%D8%A7%D9%84%D8%B2%D8%B9%D8%AA%D8%B1_%D9%81%D9%8A_%D9%85%D9%82%D8%A8%D8%B1%D8%A9_%D8%B4%D9%87%D8%AF%D8%A7%D8%A1_%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D8%8C_%D8%A8%D9%8A%D8%B1%D9%88%D8%AA.jpg"
+  ],
+  "Palestinian thobe": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ramallah_Dress_%28Palestinian_Thobe%29-3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ramallah_Dress_%28Palestinian_Thobe%29.jpg/1280px-Ramallah_Dress_%28Palestinian_Thobe%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bethlehem_Dress_%28Palestinian_Thobe%29-3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bethlehem_Dress_%28Palestinian_Thobe%29-2.jpg/1280px-Bethlehem_Dress_%28Palestinian_Thobe%29-2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/25/Embroidery_from_Bethlehem_Dress_%28Palestinian_Thobe%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lydda_Dress_%28Palestinian_Thobe%29.jpg/1280px-Lydda_Dress_%28Palestinian_Thobe%29.jpg"
+  ],
+  "Palestinian thobe dress": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ramallah_Dress_%28Palestinian_Thobe%29-3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ramallah_Dress_%28Palestinian_Thobe%29.jpg/1280px-Ramallah_Dress_%28Palestinian_Thobe%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c3/Bethlehem_Dress_%28Palestinian_Thobe%29-3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Bethlehem_Dress_%28Palestinian_Thobe%29-2.jpg/1280px-Bethlehem_Dress_%28Palestinian_Thobe%29-2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/25/Embroidery_from_Bethlehem_Dress_%28Palestinian_Thobe%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Lydda_Dress_%28Palestinian_Thobe%29.jpg/1280px-Lydda_Dress_%28Palestinian_Thobe%29.jpg"
+  ],
+  "Keffiyeh": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/A_Talit%2C_Keffiyeh_and_Palestinian_scraf.jpg/1280px-A_Talit%2C_Keffiyeh_and_Palestinian_scraf.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Palestinian_keffiyeh_loom.jpg/1280px-Palestinian_keffiyeh_loom.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ArafatEconomicForum_%28cropped%29.jpg/1280px-ArafatEconomicForum_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/80/Autoportrait_with_a_Keffiyeh.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Keffiyeh-corner.png/1280px-Keffiyeh-corner.png",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keffiyeh-frieze.png"
+  ],
+  "Palestinian tatreez embroidery": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_qasab_couching_%28Palestinian_embroidery%29.jpg/1280px-The_qasab_couching_%28Palestinian_embroidery%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Palestinian_embroidery_on_dress_sleeves.jpg/1280px-Palestinian_embroidery_on_dress_sleeves.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cypress_trees_pattern_%28Palesti-nian_embroidery-Jaffa_area%29.jpg/1280px-Cypress_trees_pattern_%28Palesti-nian_embroidery-Jaffa_area%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29_%282%29.jpg/1280px-Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29_%282%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29.jpg/1280px-Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Leech_pattern_%28Palestinian_embroidery%29.jpg/1280px-Leech_pattern_%28Palestinian_embroidery%29.jpg"
+  ],
+  "Palestinian embroidery tatreez": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_qasab_couching_%28Palestinian_embroidery%29.jpg/1280px-The_qasab_couching_%28Palestinian_embroidery%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Palestinian_embroidery_on_dress_sleeves.jpg/1280px-Palestinian_embroidery_on_dress_sleeves.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Cypress_trees_pattern_%28Palesti-nian_embroidery-Jaffa_area%29.jpg/1280px-Cypress_trees_pattern_%28Palesti-nian_embroidery-Jaffa_area%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29_%282%29.jpg/1280px-Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29_%282%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29.jpg/1280px-Embroidery_from_Beersheba_Dress_%28Palestinian_Thobe%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Leech_pattern_%28Palestinian_embroidery%29.jpg/1280px-Leech_pattern_%28Palestinian_embroidery%29.jpg"
+  ],
+  "Dabke": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/31/Female_dabke_dancers.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/46/Dabkeh.png",
+    "https://upload.wikimedia.org/wikipedia/commons/6/69/Palestinian_Dabke.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/59/Limestone_Phoenician_dancers_Cyprus.png",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Phoenician_patera_Idalium.png"
+  ],
+  "Dabke dance": [
+    "https://upload.wikimedia.org/wikipedia/commons/3/31/Female_dabke_dancers.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/46/Dabkeh.png",
+    "https://upload.wikimedia.org/wikipedia/commons/8/8e/Palestinian_girls_dancing_Dabke.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b3/Palestinian_girls_dancing_traditional_Dabke.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/59/Limestone_Phoenician_dancers_Cyprus.png",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Phoenician_patera_Idalium.png"
+  ],
+  "Palestinian culture": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f5/Close_up_Palestinian_Henna.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_3.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_2.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_01.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_01.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_4.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_4.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/First_day_of_the_Oxford_Palestine_solidarity_encampment_%286_May_2024%29_01.jpg/1280px-First_day_of_the_Oxford_Palestine_solidarity_encampment_%286_May_2024%29_01.jpg"
+  ],
+  "Palestinian art": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pointed_jar%2C_Syro-Palestinian%2C_300-350_AD%2C_free-blown_glass_-_Portland_Art_Museum_-_Portland%2C_Oregon_-_DSC08989.jpg/1280px-Pointed_jar%2C_Syro-Palestinian%2C_300-350_AD%2C_free-blown_glass_-_Portland_Art_Museum_-_Portland%2C_Oregon_-_DSC08989.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/89/Al_Ma%27mal_Foundation_for_Contemporary_Art.png",
+    "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ramallah_Dress_%28Palestinian_Thobe%29-3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Ramallah_Dress_%28Palestinian_Thobe%29-2.jpg/1280px-Ramallah_Dress_%28Palestinian_Thobe%29-2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Ramallah_Dress_%28Palestinian_Thobe%29.jpg/1280px-Ramallah_Dress_%28Palestinian_Thobe%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/The_qasab_couching_%28Palestinian_embroidery%29.jpg/1280px-The_qasab_couching_%28Palestinian_embroidery%29.jpg"
+  ],
+  "Al-Aqsa Mosque": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Jerusalem-2007-Temple_Mount-Al-Aqsa_Mosque_01.jpg/1280px-Jerusalem-2007-Temple_Mount-Al-Aqsa_Mosque_01.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_01.jpg/1280px-Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_01.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Jerusalem-2013-Al-Aqsa_Mosque_04.jpg/1280px-Jerusalem-2013-Al-Aqsa_Mosque_04.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg/1280px-Jerusalem-2013-Temple_Mount-Al-Aqsa_Mosque_%28NE_exposure%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Jerusalem-2013%282%29-Temple_Mount-Al-Aqsa_Mosque_%28east_exposure%29.jpg/1280px-Jerusalem-2013%282%29-Temple_Mount-Al-Aqsa_Mosque_%28east_exposure%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Al-Qibli_Chapel_20140816-IMG_0159.jpg/1280px-Al-Qibli_Chapel_20140816-IMG_0159.jpg"
+  ],
+  "Church of the Nativity": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity%2C_Bethlehem%2C_Palestine2.jpg/1280px-Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity%2C_Bethlehem%2C_Palestine2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Church_of_the_Nativity_%287703592746%29.jpg/1280px-Church_of_the_Nativity_%287703592746%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Esgl%C3%A9sia_de_la_Nativitat_%28Lludient%29.jpg/1280px-Esgl%C3%A9sia_de_la_Nativitat_%28Lludient%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Holy_Land_2016_P0027_Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity_organ.jpg/1280px-Holy_Land_2016_P0027_Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity_organ.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Holy_Land_2016_P0028_Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity_organ.jpg/1280px-Holy_Land_2016_P0028_Church_of_Saint_Catherine_of_Alexandria_at_the_Basilica_of_the_Nativity_organ.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Church_of_the_nativity_9.jpg/1280px-Church_of_the_nativity_9.jpg"
+  ],
+  "Sebastia Palestine": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/42/Sebastia_vill.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Sebastia%2C_Nablus_%2853875951%29.jpg/1280px-Sebastia%2C_Nablus_%2853875951%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Sebastia-2-088.jpg/1280px-Sebastia-2-088.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sebastia_from_the_1871-77_Palestine_Exploration_Fund_Survey_of_Palestine.jpg/1280px-Sebastia_from_the_1871-77_Palestine_Exploration_Fund_Survey_of_Palestine.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Palestine_flag_waves_near_the_entrance_of_Tel_Sebastia%2C_2022.jpg/1280px-Palestine_flag_waves_near_the_entrance_of_Tel_Sebastia%2C_2022.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Popular_Front_for_the_Liberation_of_Palestine_Graffiti_in_Sebastia%2C_2022.jpg/1280px-Popular_Front_for_the_Liberation_of_Palestine_Graffiti_in_Sebastia%2C_2022.jpg"
+  ],
+  "Palestine olive tree": [
+    "https://upload.wikimedia.org/wikipedia/commons/f/f0/Olive_Tree_West_of_Jerusalem_IMG_4888.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/d4/Olive_tree_Lebanon.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Roots_of_an_ancient_olive_tree_west_of_Ramallah.jpg/1280px-Roots_of_an_ancient_olive_tree_west_of_Ramallah.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_3.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_3.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_2.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Grafting_large_olive_trees.jpg/1280px-Grafting_large_olive_trees.jpg"
+  ]
 };
 
 export function getStaticImage(query: string): string | null {
