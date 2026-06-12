@@ -266,7 +266,12 @@ export const STATIC_IMAGES: Record<string, string[]> = {
     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Knafeh_khishneh.jpg/1280px-Knafeh_khishneh.jpg"
   ],
   "Knafeh Nabulsieh": [
-    "https://upload.wikimedia.org/wikipedia/commons/4/44/Kanafeh_Nabulsieh.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nablus_souq_kanafeh_131_-_Aug_2011.jpg/1280px-Nablus_souq_kanafeh_131_-_Aug_2011.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nablus_souq_kanafeh_134_-_Aug_2011.jpg/1280px-Nablus_souq_kanafeh_134_-_Aug_2011.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nablus_souq_kanafeh_140_-_Aug_2011.jpg/1280px-Nablus_souq_kanafeh_140_-_Aug_2011.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/24/Nablus_souq_kanafeh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/ff/%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9_%D8%B3%D9%88%D9%82_%D8%A8%D8%A7%D8%A8_%D8%B3%D8%B1%D9%8A%D8%AC%D8%A9_%D8%AF%D9%85%D8%B4%D9%82_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e6/%D9%83%D9%86%D8%A7%D9%81%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg"
   ],
   "Zaatar Palestine": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Israeli_zaatar_manakeesh.jpg/1280px-Israeli_zaatar_manakeesh.jpg",
@@ -376,6 +381,70 @@ export const STATIC_IMAGES: Record<string, string[]> = {
     "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_3.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_3.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_2.jpg/1280px-Oxford_Radcliffe_Camera_Palestinian_olive_tree_encampment_2.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Grafting_large_olive_trees.jpg/1280px-Grafting_large_olive_trees.jpg"
+  ],
+  "Yasser Arafat": [
+    "https://upload.wikimedia.org/wikipedia/commons/5/57/Yasser-arafat-1999-2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Shimon_Peres%2C_Yasser_Arafat_-_World_Economic_Forum_Annual_Meeting_Davos_2001.jpg/1280px-Shimon_Peres%2C_Yasser_Arafat_-_World_Economic_Forum_Annual_Meeting_Davos_2001.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Bhim_Singh_and_Yasser_Arafat_in_Syria.jpg/1280px-Bhim_Singh_and_Yasser_Arafat_in_Syria.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/d/df/Yasser_Arafat_and_King_Hassan_II_of_Morocco.png",
+    "https://upload.wikimedia.org/wikipedia/commons/1/11/Bulgarian_poet_Vanya_Petkova_with_Palestinian_leader_Yasser_Arafat.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg/1280px-Leader_of_the_PLO%2C_Yasser_Arafat%2C_1996_Dan_Hadani_Archive.jpg"
+  ],
+  "Yahya Sinwar": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e8/Yahya_al-Sinwar_2013_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/36/Yahya_al-Sinwar_2011_crop.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c4/Yahya_al-Sinwar_2011_%28cropped%29.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Yahya_Sinwar_greeting_Iranian_Supreme_Leader_Ali_Khamenei.jpg/1280px-Yahya_Sinwar_greeting_Iranian_Supreme_Leader_Ali_Khamenei.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f0/Yahya_Sinwar%2C_2012_-_2_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/31/Yahya_Sinwar%2C_2012_-_1_%28cropped%29.jpg"
+  ],
+  "Ismail Haniyeh": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/03-03-2020_Ismail_Haniyeh.jpg/1280px-03-03-2020_Ismail_Haniyeh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/03-03-2020_Ismail_Haniyeh_%28cropped%29.jpg/1280px-03-03-2020_Ismail_Haniyeh_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Ismail_Haniyeh_in_2022.jpg/1280px-Ismail_Haniyeh_in_2022.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ismail_Haniyeh_in_2024.webp",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Khamenei_leads_prayer_for_Ismail_Haniyeh.tif/lossy-page1-960px-Khamenei_leads_prayer_for_Ismail_Haniyeh.tif.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ismail_Haniyeh_%283x4_cropped%29.jpg/1280px-Ismail_Haniyeh_%283x4_cropped%29.jpg"
+  ],
+  "Sheikh Ahmed Yassin": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Military_trial_of_Ahmed_Yassin%2C_March_1990_I.jpg/1280px-Military_trial_of_Ahmed_Yassin%2C_March_1990_I.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Military_trial_of_Ahmed_Yassin%2C_March_1990_II.jpg/1280px-Military_trial_of_Ahmed_Yassin%2C_March_1990_II.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/64/Military_trial_of_Ahmed_Yassin%2C_March_1990_I_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/40/Ahmed_Yassin_and_Ayatollah_Khamenei.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/ff/Ahmed_Yassin_in_1998.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/aa/Military_trial_of_Ahmed_Yassin%2C_March_1990_I_%28colorized%29.jpg"
+  ],
+  "George Habash": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/68/Arafat_Darwish_Habash.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/c/c9/George_Habash.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/03/George_Habash_1951.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ramallah%2C_Palestine%2C_George_Habbash_square.jpg/1280px-Ramallah%2C_Palestine%2C_George_Habbash_square.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Habash_sq_-_panoramio.jpg/1280px-George_Habash_sq_-_panoramio.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/94/George_Habash_1970.jpg"
+  ],
+  "Marwan Barghouti": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2c/Marwan_Barghouti.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Marwan_Barghouti_flag.JPG/1280px-Marwan_Barghouti_flag.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Plaque_All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg/1280px-Plaque_All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg/1280px-All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_2.jpg/1280px-All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/5/5b/Marwan_Barghouti_%28cropped%29.jpg"
+  ],
+  "Khalil al-Wazir": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/79/Abu_Jihad_al-Wazir.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b8/Arafat%2C_Nasser_and_Abu_Jihad_at_Arab_conference.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ramallah_PLC.jpg/1280px-Ramallah_PLC.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Khalil_al-Wazir_St.jpg/1280px-Khalil_al-Wazir_St.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/9/99/Khalil_al-Wazir_house.png",
+    "https://upload.wikimedia.org/wikipedia/commons/b/b3/Abu_Jihad_funeral_ceremony_in_Damascus%2C_Syria%2C_1988.jpg"
+  ],
+  "Abu Obeida": [
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/A_Talit%2C_Keffiyeh_and_Palestinian_scraf.jpg/1280px-A_Talit%2C_Keffiyeh_and_Palestinian_scraf.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Palestinian_keffiyeh_loom.jpg/1280px-Palestinian_keffiyeh_loom.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ArafatEconomicForum_%28cropped%29.jpg/1280px-ArafatEconomicForum_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/8/80/Autoportrait_with_a_Keffiyeh.png",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Keffiyeh-corner.png/1280px-Keffiyeh-corner.png",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keffiyeh-frieze.png"
   ]
 };
 

@@ -51,6 +51,12 @@ export const fr = {
     subtitle: "Voix, leaders et artistes de Palestine.",
     biography: "Biographie",
     achievements: "Héritage",
+    readMore: "En savoir plus",
+    born: "Né le",
+    died: "Décédé le",
+    birthplace: "Lieu de naissance",
+    details: "Détails",
+    stillLiving: "Encore en vie",
   },
   stats: {
     title: "Statistiques",
