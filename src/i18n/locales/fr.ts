@@ -31,6 +31,8 @@ export const fr = {
   timeline: {
     title: "Chronologie historique",
     subtitle: "Plus d'un siècle d'histoire palestinienne.",
+    readMore: "En savoir plus",
+    details: "Détails de l'événement",
   },
   map: {
     title: "Carte interactive",
