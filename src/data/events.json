@@ -8,6 +8,11 @@
       "en": "For four centuries Palestine was part of the Ottoman Empire, an era of vibrant cities, markets and architectural heritage.",
       "fr": "Pendant quatre siècles, la Palestine fait partie de l'Empire ottoman, une époque de villes vibrantes et de patrimoine architectural."
     },
+    "details": {
+      "ar": "ضُمّت فلسطين للدولة العثمانية بعد معركة مرج دابق عام 1516. قُسّمت إدارياً إلى سناجق تتبع ولايتي دمشق وصيدا، ثم تأسست متصرفية القدس المستقلة عام 1872. ازدهرت خلال هذه الفترة مدن نابلس والقدس وغزة وعكا ويافا، وشُيّدت أسوار القدس الحالية في عهد السلطان سليمان القانوني. مع نهاية القرن التاسع عشر بدأت موجات الهجرة الصهيونية الأولى، وانتهى الحكم العثماني بانتصار البريطانيين في الحرب العالمية الأولى ودخول الجنرال أللنبي القدس عام 1917.",
+      "en": "Palestine was incorporated into the Ottoman Empire after the Battle of Marj Dabiq in 1516. It was administered through sanjaks attached to the provinces of Damascus and Sidon, before the autonomous Mutasarrifate of Jerusalem was created in 1872. Cities such as Nablus, Jerusalem, Gaza, Acre and Jaffa flourished, and the current walls of Jerusalem were built under Sultan Suleiman the Magnificent. By the late 19th century the first waves of Zionist immigration began, and Ottoman rule ended with the British victory in WWI and General Allenby's entry into Jerusalem in 1917.",
+      "fr": "La Palestine est intégrée à l'Empire ottoman après la bataille de Marj Dabiq en 1516. Administrée via des sandjaks rattachés à Damas et Sidon, elle voit naître en 1872 le moutassarifat autonome de Jérusalem. Naplouse, Jérusalem, Gaza, Acre et Jaffa prospèrent, et les remparts actuels de Jérusalem sont édifiés sous Soliman le Magnifique. La domination ottomane s'achève avec la victoire britannique de 1917 et l'entrée du général Allenby à Jérusalem."
+    },
     "query": "Ottoman Palestine"
   },
   {
@@ -18,6 +23,11 @@
       "ar": "أصدرت بريطانيا وعد بلفور الذي مهّد لتحوّلات سياسية كبرى في فلسطين.",
       "en": "Britain issued the Balfour Declaration, opening a new political chapter for Palestine.",
       "fr": "La Grande-Bretagne publie la Déclaration Balfour, ouvrant un nouveau chapitre politique pour la Palestine."
+    },
+    "details": {
+      "ar": "في 2 نوفمبر 1917، وجّه وزير الخارجية البريطاني آرثر بلفور رسالة إلى اللورد روتشيلد تتعهد فيها الحكومة البريطانية بـ'تأييد إنشاء وطن قومي للشعب اليهودي في فلسطين'، رغم أن سكان فلسطين الأصليين من العرب كانوا يشكلون أكثر من 90% من السكان. صدر هذا الوعد قبل أن تكون لبريطانيا أي سيادة قانونية على فلسطين، وأصبح نقطة تحوّل جوهرية في تاريخ المنطقة، وأساساً قانونياً وسياسياً للمشروع الصهيوني الذي تطور لاحقاً.",
+      "en": "On 2 November 1917, British Foreign Secretary Arthur Balfour sent a letter to Lord Rothschild pledging British support for 'the establishment in Palestine of a national home for the Jewish people' — even though Arabs made up over 90% of the population. The promise was made before Britain held any legal sovereignty over Palestine and became a foundational moment for the Zionist project that would later unfold.",
+      "fr": "Le 2 novembre 1917, le ministre britannique Arthur Balfour adressa une lettre à Lord Rothschild promettant le soutien de la Grande-Bretagne à « l'établissement en Palestine d'un foyer national pour le peuple juif », alors que les Arabes représentaient plus de 90 % de la population. Cette promesse, faite avant toute souveraineté légale britannique, marqua un tournant majeur."
     },
     "query": "Balfour Declaration"
   },
@@ -30,6 +40,11 @@
       "en": "The British Mandate period saw tensions and popular uprisings, including the 1936 revolt.",
       "fr": "Le mandat britannique connaît des tensions et des révoltes populaires, dont la révolte de 1936."
     },
+    "details": {
+      "ar": "منحت عصبة الأمم بريطانيا الانتداب على فلسطين عام 1920، وتضمّن صك الانتداب تنفيذ وعد بلفور. تصاعدت موجات الهجرة الصهيونية، ما أدى إلى ثورات فلسطينية متعاقبة، أبرزها هبّة البراق 1929 والثورة الكبرى 1936-1939 التي استمرت ثلاث سنوات وقادها الشيخ عز الدين القسام قبل استشهاده. قمعت بريطانيا الثورة بقسوة، ودمّرت قرى وقتلت آلاف الفلسطينيين، ثم انتهى الانتداب رسمياً في 14 مايو 1948 مع إعلان قيام دولة إسرائيل.",
+      "en": "The League of Nations awarded Britain the Mandate over Palestine in 1920, with the Balfour Declaration embedded in its text. Rising Zionist immigration sparked repeated Palestinian uprisings — most notably the 1929 Buraq revolt and the 1936-1939 Great Arab Revolt, led by Sheikh Izz ad-Din al-Qassam before his martyrdom. Britain crushed the revolt with extreme force, destroying villages and killing thousands of Palestinians, before the Mandate officially ended on 14 May 1948 with the declaration of the State of Israel.",
+      "fr": "La SDN confie à la Grande-Bretagne le mandat sur la Palestine en 1920, intégrant la Déclaration Balfour. La hausse de l'immigration sioniste provoque des soulèvements, dont la révolte d'al-Buraq en 1929 et la Grande Révolte arabe de 1936-1939 menée par Cheikh Izz ad-Din al-Qassam. Réprimée violemment, elle se termine peu avant la fin officielle du mandat le 14 mai 1948."
+    },
     "query": "British Mandate Palestine"
   },
   {
@@ -40,6 +55,11 @@
       "ar": "تهجير أكثر من 750 ألف فلسطيني من قراهم ومدنهم، وتدمير مئات القرى.",
       "en": "More than 750,000 Palestinians were displaced from their homes and hundreds of villages destroyed.",
       "fr": "Plus de 750 000 Palestiniens sont déplacés et des centaines de villages détruits."
+    },
+    "details": {
+      "ar": "النكبة هي الكارثة التي حلّت بالشعب الفلسطيني عام 1948 مع تأسيس دولة إسرائيل. هُجّر أكثر من 750,000 فلسطيني، ودُمّرت أكثر من 530 قرية ومدينة فلسطينية بالكامل، ووقعت أكثر من 70 مجزرة بحق المدنيين أبرزها مجزرة دير ياسين في 9 أبريل 1948 ومجزرة الطنطورة. استولت العصابات الصهيونية على 78% من أرض فلسطين التاريخية، ومُنع اللاجئون من العودة إلى أراضيهم رغم القرار الأممي رقم 194. أصبحت النكبة الحدث المؤسس في الذاكرة الوطنية الفلسطينية، ويُحيي الفلسطينيون ذكراها في الخامس عشر من مايو من كل عام.",
+      "en": "The Nakba ('catastrophe') refers to the disaster that befell the Palestinian people in 1948 with the establishment of the State of Israel. Over 750,000 Palestinians were forcibly displaced, more than 530 villages and towns were completely destroyed, and over 70 massacres of civilians took place — including Deir Yassin on 9 April 1948 and Tantura. Zionist forces seized 78% of historic Palestine, and refugees were barred from returning despite UN Resolution 194. The Nakba is the founding event of Palestinian national memory, commemorated every 15 May.",
+      "fr": "La Nakba (« catastrophe ») désigne la tragédie palestinienne de 1948 avec la création d'Israël. Plus de 750 000 Palestiniens sont déplacés, plus de 530 villages détruits, et plus de 70 massacres commis — dont Deir Yassin (9 avril 1948) et Tantoura. Les forces sionistes s'emparent de 78 % de la Palestine historique. Le retour des réfugiés est interdit malgré la résolution 194 de l'ONU. Commémorée chaque 15 mai."
     },
     "query": "1948 Palestinian exodus"
   },
@@ -52,6 +72,11 @@
       "en": "The 1967 war and the subsequent occupation of the West Bank, Gaza and East Jerusalem.",
       "fr": "La guerre de 1967 et l'occupation de la Cisjordanie, de Gaza et de Jérusalem-Est."
     },
+    "details": {
+      "ar": "في الخامس من يونيو 1967 شنّت إسرائيل حرباً خاطفة على مصر وسوريا والأردن استمرت ستة أيام، نتج عنها احتلال الضفة الغربية والقدس الشرقية وقطاع غزة وسيناء والجولان. هُجّر نحو 300,000 فلسطيني إضافي، وفُرضت السيطرة الإسرائيلية على ما تبقى من فلسطين التاريخية. أصدر مجلس الأمن القرار 242 الذي طالب بانسحاب إسرائيل من الأراضي المحتلة، لكنه لم يُنفّذ. منذ ذلك الحين، يعيش الفلسطينيون تحت الاحتلال العسكري الأطول في التاريخ الحديث.",
+      "en": "On 5 June 1967, Israel launched a six-day pre-emptive war against Egypt, Syria and Jordan, resulting in the occupation of the West Bank, East Jerusalem, Gaza, Sinai and the Golan Heights. Roughly 300,000 additional Palestinians were displaced and Israeli control was imposed on the remainder of historic Palestine. UN Resolution 242 called for withdrawal but was never implemented. Palestinians have since lived under the longest military occupation in modern history.",
+      "fr": "Le 5 juin 1967, Israël déclenche une guerre éclair de six jours contre l'Égypte, la Syrie et la Jordanie, occupant la Cisjordanie, Jérusalem-Est, Gaza, le Sinaï et le Golan. Environ 300 000 Palestiniens sont à nouveau déplacés. La résolution 242 de l'ONU exigeant le retrait n'a jamais été appliquée."
+    },
     "query": "Six-Day War"
   },
   {
@@ -62,6 +87,11 @@
       "ar": "انتفاضة شعبية واسعة عُرفت بانتفاضة الحجارة.",
       "en": "A mass popular uprising known as the Stones Intifada.",
       "fr": "Un soulèvement populaire massif, connu comme l'Intifada des pierres."
+    },
+    "details": {
+      "ar": "اندلعت الانتفاضة الأولى في 9 ديسمبر 1987 بعد حادثة دهس جنود إسرائيليين لعمال فلسطينيين عند حاجز إيرز في غزة. عُرفت بانتفاضة الحجارة لأن أطفال فلسطين واجهوا جيش الاحتلال بالحجارة. شملت إضرابات وعصياناً مدنياً وتنظيم لجان شعبية. استمرت حتى عام 1993، واستُشهد خلالها أكثر من 1,500 فلسطيني، واعتُقل عشرات الآلاف، وتأسست خلالها حركة حماس عام 1987. وأعادت الانتفاضة القضية الفلسطينية إلى الواجهة العالمية.",
+      "en": "The First Intifada erupted on 9 December 1987 after Israeli soldiers ran over Palestinian workers at the Erez checkpoint in Gaza. Known as the 'Stones Intifada' because Palestinian children confronted occupation soldiers with stones, it included strikes, civil disobedience and popular committees. It continued until 1993, killed over 1,500 Palestinians, led to tens of thousands of arrests, and saw the founding of Hamas in 1987. It pushed the Palestinian cause back into global focus.",
+      "fr": "La Première Intifada éclate le 9 décembre 1987. Surnommée « Intifada des pierres », elle voit les enfants palestiniens affronter l'armée israélienne. Grèves, désobéissance civile et comités populaires s'organisent. Plus de 1 500 Palestiniens tués, dizaines de milliers arrêtés. Le Hamas est fondé en 1987."
     },
     "query": "First Intifada"
   },
@@ -74,6 +104,11 @@
       "en": "Agreements between the PLO and Israel that established the Palestinian Authority.",
       "fr": "Accords entre l'OLP et Israël qui établissent l'Autorité palestinienne."
     },
+    "details": {
+      "ar": "وُقّعت اتفاقية أوسلو الأولى في البيت الأبيض بواشنطن في 13 سبتمبر 1993 بين ياسر عرفات وإسحاق رابين برعاية الرئيس الأمريكي بيل كلينتون. اعترفت منظمة التحرير الفلسطينية بإسرائيل، واعترفت إسرائيل بالمنظمة ممثلاً شرعياً للشعب الفلسطيني. أُسست بموجبها السلطة الفلسطينية لإدارة شؤون السكان في الضفة وغزة لخمس سنوات، يتم خلالها التفاوض على الوضع النهائي. لكن قضايا اللاجئين والقدس والمستوطنات والحدود لم تُحلّ، وتعطّلت العملية بعد اغتيال رابين عام 1995.",
+      "en": "The first Oslo Accord was signed at the White House in Washington on 13 September 1993 between Yasser Arafat and Yitzhak Rabin, brokered by US President Bill Clinton. The PLO recognised Israel and Israel recognised the PLO as the sole legitimate representative of the Palestinian people. The Palestinian Authority was created to administer the West Bank and Gaza for a five-year interim period during which final-status issues would be negotiated. Refugees, Jerusalem, settlements and borders were never resolved; the process stalled after Rabin's assassination in 1995.",
+      "fr": "Le premier accord d'Oslo est signé à la Maison-Blanche le 13 septembre 1993 entre Yasser Arafat et Yitzhak Rabin, sous l'égide de Bill Clinton. L'OLP reconnaît Israël et Israël reconnaît l'OLP. L'Autorité palestinienne est créée pour cinq ans. Les questions des réfugiés, de Jérusalem, des colonies et des frontières restent non résolues; le processus s'enlise après l'assassinat de Rabin en 1995."
+    },
     "query": "Oslo Accords"
   },
   {
@@ -85,6 +120,11 @@
       "en": "The Second Intifada erupted after the breakdown of negotiations.",
       "fr": "La seconde Intifada éclate après l'échec des négociations."
     },
+    "details": {
+      "ar": "اندلعت الانتفاضة الثانية، المعروفة بانتفاضة الأقصى، في 28 سبتمبر 2000 إثر اقتحام أرييل شارون لباحات المسجد الأقصى بحراسة ألف جندي. استمرت خمس سنوات، واستُشهد خلالها أكثر من 4,000 فلسطيني، وأُصيب عشرات الآلاف، وأعادت إسرائيل اجتياح المدن الفلسطينية في عملية 'السور الواقي' عام 2002. بدأت إسرائيل خلالها بناء جدار الفصل العنصري في الضفة الغربية، وفرضت حصاراً على الرئيس عرفات في مقاطعته برام الله حتى وفاته عام 2004.",
+      "en": "The Second Intifada — known as the Al-Aqsa Intifada — erupted on 28 September 2000 after Ariel Sharon's visit to Al-Aqsa compound under heavy military escort. Lasting five years, it killed over 4,000 Palestinians and wounded tens of thousands. Israel reinvaded the Palestinian cities in Operation Defensive Shield (2002), began building the West Bank separation wall, and besieged President Arafat in his Ramallah compound until his death in 2004.",
+      "fr": "La Seconde Intifada, dite « Intifada Al-Aqsa », éclate le 28 septembre 2000 après la visite d'Ariel Sharon sur l'esplanade d'Al-Aqsa. Cinq ans de soulèvement: plus de 4 000 Palestiniens tués. Israël réoccupe les villes palestiniennes en 2002 et débute la construction du mur de séparation. Arafat est assiégé à Ramallah jusqu'à sa mort en 2004."
+    },
     "query": "Second Intifada"
   },
   {
@@ -95,6 +135,11 @@
       "ar": "يواصل الشعب الفلسطيني الحفاظ على هويته وتراثه وروايته.",
       "en": "The Palestinian people continue to preserve their identity, heritage and narrative.",
       "fr": "Le peuple palestinien continue de préserver son identité, son patrimoine et son récit."
+    },
+    "details": {
+      "ar": "يعيش الشعب الفلسطيني اليوم تحت احتلال متواصل واستيطان متوسّع في الضفة الغربية وحصار خانق على قطاع غزة. ومنذ السابع من أكتوبر 2023 يتعرّض القطاع لحرب وصفت بالإبادة الجماعية، استُشهد فيها عشرات الآلاف من المدنيين معظمهم من النساء والأطفال، ودُمّرت البنية التحتية والمستشفيات والمدارس. ورغم كل ذلك يواصل الفلسطينيون داخل الوطن وفي الشتات الدفاع عن روايتهم وحقّهم في تقرير المصير والعودة، ويتلقّون دعماً شعبياً متصاعداً حول العالم.",
+      "en": "Palestinians today live under an ongoing occupation and expanding settlements in the West Bank, alongside a crippling siege on Gaza. Since 7 October 2023, Gaza has endured a war widely described as genocide, with tens of thousands of civilians — mostly women and children — killed, and entire infrastructure, hospitals and schools destroyed. Yet Palestinians, at home and in the diaspora, continue to defend their narrative and their right to self-determination and return, with growing global popular support.",
+      "fr": "Les Palestiniens vivent aujourd'hui sous occupation continue et colonisation croissante en Cisjordanie, et sous un siège suffocant à Gaza. Depuis le 7 octobre 2023, Gaza subit une guerre décrite comme un génocide, avec des dizaines de milliers de civils — majoritairement femmes et enfants — tués. Malgré tout, les Palestiniens défendent leur récit et leur droit à l'autodétermination."
     },
     "query": "Palestine culture today"
   }

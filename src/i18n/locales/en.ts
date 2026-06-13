@@ -31,6 +31,8 @@ export const en = {
   timeline: {
     title: "Historical Timeline",
     subtitle: "Scroll through more than a century of Palestinian history.",
+    readMore: "Learn more",
+    details: "Event details",
   },
   map: {
     title: "Interactive Map",
