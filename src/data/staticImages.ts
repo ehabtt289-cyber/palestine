@@ -258,20 +258,20 @@ export const STATIC_IMAGES: Record<string, string[]> = {
     "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9.jpg/1280px-%D9%85%D9%82%D9%84%D9%88%D8%A8%D8%A9_%D8%B3%D9%88%D8%B1%D9%8A%D8%A9.jpg"
   ],
   "Knafeh": [
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/2019_Marin_Greek_Festival_-_Sarah_Stierch_05.jpg/1280px-2019_Marin_Greek_Festival_-_Sarah_Stierch_05.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/44/Kanafeh_Nabulsieh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e6/%D9%83%D9%86%D8%A7%D9%81%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nablus_souq_kanafeh_131_-_Aug_2011.jpg/1280px-Nablus_souq_kanafeh_131_-_Aug_2011.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/2/24/Nablus_souq_kanafeh.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Knafeh_in_Jaffa_cafe.jpg/1280px-Knafeh_in_Jaffa_cafe.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Knafeh_From_Yaffa_Knafeh.jpg/1280px-Knafeh_From_Yaffa_Knafeh.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Chicken_with_Yemeni_mandi_spices_over_rice_and_knafeh.jpg/1280px-Chicken_with_Yemeni_mandi_spices_over_rice_and_knafeh.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/4/42/Knafeh_in_Nazareth%2C_Israel.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Knafeh_khishneh.jpg/1280px-Knafeh_khishneh.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/4/42/Knafeh_in_Nazareth%2C_Israel.png"
   ],
   "Knafeh Nabulsieh": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/44/Kanafeh_Nabulsieh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/e/e6/%D9%83%D9%86%D8%A7%D9%81%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Nablus_souq_kanafeh_131_-_Aug_2011.jpg/1280px-Nablus_souq_kanafeh_131_-_Aug_2011.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Nablus_souq_kanafeh_134_-_Aug_2011.jpg/1280px-Nablus_souq_kanafeh_134_-_Aug_2011.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Nablus_souq_kanafeh_140_-_Aug_2011.jpg/1280px-Nablus_souq_kanafeh_140_-_Aug_2011.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/2/24/Nablus_souq_kanafeh.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/f/ff/%D8%AD%D9%84%D9%88%D9%8A%D8%A7%D8%AA_%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9_%D8%B3%D9%88%D9%82_%D8%A8%D8%A7%D8%A8_%D8%B3%D8%B1%D9%8A%D8%AC%D8%A9_%D8%AF%D9%85%D8%B4%D9%82_%D8%B3%D9%88%D8%B1%D9%8A%D8%A7.JPG",
-    "https://upload.wikimedia.org/wikipedia/commons/e/e6/%D9%83%D9%86%D8%A7%D9%81%D8%A9_%D9%86%D8%A7%D8%A8%D9%84%D8%B3%D9%8A%D8%A9.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/2/24/Nablus_souq_kanafeh.jpg"
   ],
   "Zaatar Palestine": [
     "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Israeli_zaatar_manakeesh.jpg/1280px-Israeli_zaatar_manakeesh.jpg",
@@ -415,36 +415,27 @@ export const STATIC_IMAGES: Record<string, string[]> = {
     "https://upload.wikimedia.org/wikipedia/commons/a/aa/Military_trial_of_Ahmed_Yassin%2C_March_1990_I_%28colorized%29.jpg"
   ],
   "George Habash": [
-    "https://upload.wikimedia.org/wikipedia/commons/6/68/Arafat_Darwish_Habash.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/f5/Dr._George_Habash%2C_leader_of_the_Popular_Front_for_the_Liberation_of_Palestine_Crop.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/c/c9/George_Habash.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/0/03/George_Habash_1951.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Ramallah%2C_Palestine%2C_George_Habbash_square.jpg/1280px-Ramallah%2C_Palestine%2C_George_Habbash_square.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/George_Habash_sq_-_panoramio.jpg/1280px-George_Habash_sq_-_panoramio.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/9/94/George_Habash_1970.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/9/94/George_Habash_1970.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Interview_with_Comrade_George_Habash_Edit.jpg/1280px-Interview_with_Comrade_George_Habash_Edit.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/6/68/Arafat_Darwish_Habash.jpg"
   ],
   "Marwan Barghouti": [
     "https://upload.wikimedia.org/wikipedia/commons/2/2c/Marwan_Barghouti.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Marwan_Barghouti_flag.JPG/1280px-Marwan_Barghouti_flag.JPG",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Plaque_All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg/1280px-Plaque_All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg/1280px-All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_1.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_2.jpg/1280px-All%C3%A9e_Marwan_Barghouti_-_Valenton_%28FR94%29_-_2022-05-11_-_2.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/5/5b/Marwan_Barghouti_%28cropped%29.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/5/5b/Marwan_Barghouti_%28cropped%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Marwan_Barghouti_flag.JPG/1280px-Marwan_Barghouti_flag.JPG"
   ],
   "Khalil al-Wazir": [
     "https://upload.wikimedia.org/wikipedia/commons/7/79/Abu_Jihad_al-Wazir.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/b/b8/Arafat%2C_Nasser_and_Abu_Jihad_at_Arab_conference.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ramallah_PLC.jpg/1280px-Ramallah_PLC.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Khalil_al-Wazir_St.jpg/1280px-Khalil_al-Wazir_St.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/9/99/Khalil_al-Wazir_house.png",
     "https://upload.wikimedia.org/wikipedia/commons/b/b3/Abu_Jihad_funeral_ceremony_in_Damascus%2C_Syria%2C_1988.jpg"
   ],
   "Abu Obeida": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/22/Photo_of_Abu_Ubaidah_martyr.jpg",
     "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/A_Talit%2C_Keffiyeh_and_Palestinian_scraf.jpg/1280px-A_Talit%2C_Keffiyeh_and_Palestinian_scraf.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Palestinian_keffiyeh_loom.jpg/1280px-Palestinian_keffiyeh_loom.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/ArafatEconomicForum_%28cropped%29.jpg/1280px-ArafatEconomicForum_%28cropped%29.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/8/80/Autoportrait_with_a_Keffiyeh.png",
-    "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Keffiyeh-corner.png/1280px-Keffiyeh-corner.png",
-    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Keffiyeh-frieze.png"
+    "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Palestinian_keffiyeh_loom.jpg/1280px-Palestinian_keffiyeh_loom.jpg"
   ]
 };
 
