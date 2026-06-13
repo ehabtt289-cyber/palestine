@@ -91,6 +91,12 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: "Palestine — A Living Documentary" },
+      { name: "description", content: "A professional, production-ready documentary website about Palestine, featuring interactive content and multilingual support." },
+      { property: "og:description", content: "A professional, production-ready documentary website about Palestine, featuring interactive content and multilingual support." },
+      { name: "twitter:description", content: "A professional, production-ready documentary website about Palestine, featuring interactive content and multilingual support." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/2089f214-e8f3-4f88-a9fa-feedaff0aa38/id-preview-8b121872--a9a2bccc-3487-4faa-9d42-ee80393922a3.lovable.app-1781333893063.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/2089f214-e8f3-4f88-a9fa-feedaff0aa38/id-preview-8b121872--a9a2bccc-3487-4faa-9d42-ee80393922a3.lovable.app-1781333893063.png" },
     ],
     links: [
       { rel: "stylesheet", href: appCss },
