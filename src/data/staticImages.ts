@@ -121,8 +121,8 @@ export const STATIC_IMAGES: Record<string, string[]> = {
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mahmoud_Darwish.jpg/1280px-Mahmoud_Darwish.jpg"
   ],
   "Ghassan Kanafani": [
-    "https://upload.wikimedia.org/wikipedia/commons/1/11/Thawrah_Hawamidah_-_Feb_11%2C_2018.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/a/ad/Anni_Kanafani_in_Beirut%2C_1992.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/a/ad/Anni_Kanafani_in_Beirut%2C_1992.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/11/Thawrah_Hawamidah_-_Feb_11%2C_2018.jpg"
   ],
   "Fadwa Tuqan": [
     "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ancient_ruins_in_a_Nablus_neighborhood.JPG",
