@@ -121,9 +121,9 @@ export const STATIC_IMAGES: Record<string, string[]> = {
     "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Mahmoud_Darwish.jpg/1280px-Mahmoud_Darwish.jpg"
   ],
   "Ghassan Kanafani": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/PFLP_press_conference_after_Dawson%27s_field_hijackings%2C_15_September_1970.png",
     "https://upload.wikimedia.org/wikipedia/commons/3/34/%D8%BA%D8%B3%D9%91%D8%A7%D9%86_%D9%83%D9%86%D9%81%D8%A7%D9%86%D9%8A.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/d/db/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9_%D8%B9%D8%A7%D8%A6%D8%AF_%D8%A5%D9%84%D9%89_%D8%AD%D9%8A%D9%81%D8%A7_%D9%84%D9%84%D9%83%D8%A7%D8%AA%D8%A8_%D8%BA%D8%B3%D9%91%D8%A7%D9%86_%D9%83%D9%86%D9%81%D8%A7%D9%86%D9%8A.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/3/30/%D8%B9%D9%86_%D8%A7%D9%84%D8%B1%D8%AC%D8%A7%D9%84_%D9%88%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AF%D9%82.jpg"
+    "https://upload.wikimedia.org/wikipedia/commons/d/db/%D8%B1%D9%88%D8%A7%D9%8A%D8%A9_%D8%B9%D8%A7%D8%A6%D8%AF_%D8%A5%D9%84%D9%89_%D8%AD%D9%8A%D9%81%D8%A7_%D9%84%D9%84%D9%83%D8%A7%D8%AA%D8%A8_%D8%BA%D8%B3%D9%91%D8%A7%D9%86_%D9%83%D9%86%D9%81%D8%A7%D9%86%D9%8A.jpg"
   ],
   "Fadwa Tuqan": [
     "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ancient_ruins_in_a_Nablus_neighborhood.JPG",
