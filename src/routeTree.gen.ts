@@ -12,10 +12,13 @@ import { Route as rootRouteImport } from './routes/__root'
 import { Route as TimelineRouteImport } from './routes/timeline'
 import { Route as StatisticsRouteImport } from './routes/statistics'
 import { Route as SitemapDotxmlRouteImport } from './routes/sitemap[.]xml'
+import { Route as ProverbsRouteImport } from './routes/proverbs'
+import { Route as MartyrsRouteImport } from './routes/martyrs'
 import { Route as MapRouteImport } from './routes/map'
 import { Route as GalleryRouteImport } from './routes/gallery'
 import { Route as FiguresRouteImport } from './routes/figures'
 import { Route as CultureRouteImport } from './routes/culture'
+import { Route as CuisineRouteImport } from './routes/cuisine'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as IndexRouteImport } from './routes/index'
 
@@ -32,6 +35,16 @@ const StatisticsRoute = StatisticsRouteImport.update({
 const SitemapDotxmlRoute = SitemapDotxmlRouteImport.update({
   id: '/sitemap.xml',
   path: '/sitemap.xml',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const ProverbsRoute = ProverbsRouteImport.update({
+  id: '/proverbs',
+  path: '/proverbs',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const MartyrsRoute = MartyrsRouteImport.update({
+  id: '/martyrs',
+  path: '/martyrs',
   getParentRoute: () => rootRouteImport,
 } as any)
 const MapRoute = MapRouteImport.update({
@@ -54,6 +67,11 @@ const CultureRoute = CultureRouteImport.update({
   path: '/culture',
   getParentRoute: () => rootRouteImport,
 } as any)
+const CuisineRoute = CuisineRouteImport.update({
+  id: '/cuisine',
+  path: '/cuisine',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const AboutRoute = AboutRouteImport.update({
   id: '/about',
   path: '/about',
@@ -68,10 +86,13 @@ const IndexRoute = IndexRouteImport.update({
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/cuisine': typeof CuisineRoute
   '/culture': typeof CultureRoute
   '/figures': typeof FiguresRoute
   '/gallery': typeof GalleryRoute
   '/map': typeof MapRoute
+  '/martyrs': typeof MartyrsRoute
+  '/proverbs': typeof ProverbsRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/statistics': typeof StatisticsRoute
   '/timeline': typeof TimelineRoute
@@ -79,10 +100,13 @@ export interface FileRoutesByFullPath {
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/cuisine': typeof CuisineRoute
   '/culture': typeof CultureRoute
   '/figures': typeof FiguresRoute
   '/gallery': typeof GalleryRoute
   '/map': typeof MapRoute
+  '/martyrs': typeof MartyrsRoute
+  '/proverbs': typeof ProverbsRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/statistics': typeof StatisticsRoute
   '/timeline': typeof TimelineRoute
@@ -91,10 +115,13 @@ export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
   '/about': typeof AboutRoute
+  '/cuisine': typeof CuisineRoute
   '/culture': typeof CultureRoute
   '/figures': typeof FiguresRoute
   '/gallery': typeof GalleryRoute
   '/map': typeof MapRoute
+  '/martyrs': typeof MartyrsRoute
+  '/proverbs': typeof ProverbsRoute
   '/sitemap.xml': typeof SitemapDotxmlRoute
   '/statistics': typeof StatisticsRoute
   '/timeline': typeof TimelineRoute
@@ -104,10 +131,13 @@ export interface FileRouteTypes {
   fullPaths:
     | '/'
     | '/about'
+    | '/cuisine'
     | '/culture'
     | '/figures'
     | '/gallery'
     | '/map'
+    | '/martyrs'
+    | '/proverbs'
     | '/sitemap.xml'
     | '/statistics'
     | '/timeline'
@@ -115,10 +145,13 @@ export interface FileRouteTypes {
   to:
     | '/'
     | '/about'
+    | '/cuisine'
     | '/culture'
     | '/figures'
     | '/gallery'
     | '/map'
+    | '/martyrs'
+    | '/proverbs'
     | '/sitemap.xml'
     | '/statistics'
     | '/timeline'
@@ -126,10 +159,13 @@ export interface FileRouteTypes {
     | '__root__'
     | '/'
     | '/about'
+    | '/cuisine'
     | '/culture'
     | '/figures'
     | '/gallery'
     | '/map'
+    | '/martyrs'
+    | '/proverbs'
     | '/sitemap.xml'
     | '/statistics'
     | '/timeline'
@@ -138,10 +174,13 @@ export interface FileRouteTypes {
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
   AboutRoute: typeof AboutRoute
+  CuisineRoute: typeof CuisineRoute
   CultureRoute: typeof CultureRoute
   FiguresRoute: typeof FiguresRoute
   GalleryRoute: typeof GalleryRoute
   MapRoute: typeof MapRoute
+  MartyrsRoute: typeof MartyrsRoute
+  ProverbsRoute: typeof ProverbsRoute
   SitemapDotxmlRoute: typeof SitemapDotxmlRoute
   StatisticsRoute: typeof StatisticsRoute
   TimelineRoute: typeof TimelineRoute
@@ -168,6 +207,20 @@ declare module '@tanstack/react-router' {
       path: '/sitemap.xml'
       fullPath: '/sitemap.xml'
       preLoaderRoute: typeof SitemapDotxmlRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/proverbs': {
+      id: '/proverbs'
+      path: '/proverbs'
+      fullPath: '/proverbs'
+      preLoaderRoute: typeof ProverbsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/martyrs': {
+      id: '/martyrs'
+      path: '/martyrs'
+      fullPath: '/martyrs'
+      preLoaderRoute: typeof MartyrsRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/map': {
@@ -198,6 +251,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof CultureRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/cuisine': {
+      id: '/cuisine'
+      path: '/cuisine'
+      fullPath: '/cuisine'
+      preLoaderRoute: typeof CuisineRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/about': {
       id: '/about'
       path: '/about'
@@ -218,10 +278,13 @@ declare module '@tanstack/react-router' {
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
   AboutRoute: AboutRoute,
+  CuisineRoute: CuisineRoute,
   CultureRoute: CultureRoute,
   FiguresRoute: FiguresRoute,
   GalleryRoute: GalleryRoute,
   MapRoute: MapRoute,
+  MartyrsRoute: MartyrsRoute,
+  ProverbsRoute: ProverbsRoute,
   SitemapDotxmlRoute: SitemapDotxmlRoute,
   StatisticsRoute: StatisticsRoute,
   TimelineRoute: TimelineRoute,
@@ -229,13 +292,3 @@ const rootRouteChildren: RootRouteChildren = {
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)
   ._addFileTypes<FileRouteTypes>()
-
-import type { getRouter } from './router.tsx'
-import type { startInstance } from './start.ts'
-declare module '@tanstack/react-start' {
-  interface Register {
-    ssr: true
-    router: Awaited<ReturnType<typeof getRouter>>
-    config: Awaited<ReturnType<typeof startInstance.getOptions>>
-  }
-}
