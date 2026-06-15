@@ -1,0 +1,64 @@
+{
+  "proverbs": [
+    {
+      "id": "p1",
+      "text": { "ar": "اللي ما إله أول، ما إله تاني.", "en": "He who has no beginning has no continuation.", "fr": "Qui n'a pas de commencement n'a pas de suite." },
+      "meaning": { "ar": "احترم جذورك وأصلك، لأنّ بدونها لا مستقبل لك.", "en": "Honor your roots — without them, there is no future.", "fr": "Honore tes racines — sans elles, pas d'avenir." }
+    },
+    {
+      "id": "p2",
+      "text": { "ar": "العين بصيرة واليد قصيرة.", "en": "The eye can see, but the hand cannot reach.", "fr": "L'œil voit, mais la main ne peut atteindre." },
+      "meaning": { "ar": "تتمنى شيئاً لكنك عاجز عن تحقيقه.", "en": "You long for something beyond your reach.", "fr": "Désirer ce que l'on ne peut atteindre." }
+    },
+    {
+      "id": "p3",
+      "text": { "ar": "إن غاب القط العب يا فار.", "en": "When the cat is away, the mice will play.", "fr": "Quand le chat n'est pas là, les souris dansent." },
+      "meaning": { "ar": "في غياب السلطة يأخذ الصغار حريتهم.", "en": "Without authority, the small ones find freedom.", "fr": "Sans autorité, les petits trouvent leur liberté." }
+    },
+    {
+      "id": "p4",
+      "text": { "ar": "اللي بزرع بحصد.", "en": "He who plants, harvests.", "fr": "Qui sème, récolte." },
+      "meaning": { "ar": "الجزاء من جنس العمل.", "en": "What you sow is what you reap.", "fr": "On récolte ce que l'on sème." }
+    },
+    {
+      "id": "p5",
+      "text": { "ar": "الجار قبل الدار.", "en": "The neighbor before the home.", "fr": "Le voisin avant la maison." },
+      "meaning": { "ar": "اختر جارك قبل أن تختار بيتك.", "en": "Choose your neighbor before you choose your house.", "fr": "Choisis ton voisin avant ta maison." }
+    },
+    {
+      "id": "p6",
+      "text": { "ar": "الصبر مفتاح الفرج.", "en": "Patience is the key to relief.", "fr": "La patience est la clé du salut." },
+      "meaning": { "ar": "كل شدة تليها فرَج، فاصبر.", "en": "Every hardship is followed by ease.", "fr": "Après l'épreuve vient le soulagement." }
+    },
+    {
+      "id": "p7",
+      "text": { "ar": "ابن الوز عوّام.", "en": "The son of a goose is a swimmer.", "fr": "Le fils de l'oie est nageur." },
+      "meaning": { "ar": "الأبناء يرثون طباع آبائهم.", "en": "Children inherit their parents' nature.", "fr": "Les enfants héritent du caractère de leurs parents." }
+    },
+    {
+      "id": "p8",
+      "text": { "ar": "أعطِ الخبز لخبّازه ولو أكل نصفه.", "en": "Give the bread to its baker — even if he eats half.", "fr": "Donne le pain à son boulanger, même s'il en mange la moitié." },
+      "meaning": { "ar": "اعهد بالعمل لأهل الاختصاص.", "en": "Trust experts with their craft.", "fr": "Confie le travail aux gens du métier." }
+    },
+    {
+      "id": "p9",
+      "text": { "ar": "البيت بيتك والدار دارك.", "en": "The house is yours, the home is yours.", "fr": "La maison est tienne, le foyer est tien." },
+      "meaning": { "ar": "تعبير عن كرم الضيافة الفلسطيني.", "en": "An expression of Palestinian hospitality.", "fr": "Expression de l'hospitalité palestinienne." }
+    },
+    {
+      "id": "p10",
+      "text": { "ar": "اللي بيدّق الباب بيسمع الجواب.", "en": "He who knocks on the door will hear the reply.", "fr": "Qui frappe à la porte entendra la réponse." },
+      "meaning": { "ar": "من يفتعل المشاكل يجني نتائجها.", "en": "He who starts trouble will face its consequences.", "fr": "Qui cherche les ennuis les trouve." }
+    },
+    {
+      "id": "p11",
+      "text": { "ar": "الزيت في بيت أهله.", "en": "The oil belongs in its own house.", "fr": "L'huile appartient à sa propre maison." },
+      "meaning": { "ar": "الخير يبقى عند أهله ولا يضيع.", "en": "Goodness stays with its people; nothing is wasted.", "fr": "Le bien reste chez les siens." }
+    },
+    {
+      "id": "p12",
+      "text": { "ar": "زيتونة بلادي ولا تفاح برّا.", "en": "An olive from my land, not an apple from abroad.", "fr": "Une olive de ma terre, pas une pomme d'ailleurs." },
+      "meaning": { "ar": "حب الوطن أعمق من أي بديل.", "en": "Love of homeland surpasses any substitute.", "fr": "L'amour de la patrie dépasse tout substitut." }
+    }
+  ]
+}

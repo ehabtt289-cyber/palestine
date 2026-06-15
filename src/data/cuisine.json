@@ -1,0 +1,70 @@
+{
+  "dishes": [
+    {
+      "id": "musakhan",
+      "query": "Musakhan palestinian",
+      "name": { "ar": "المسخّن", "en": "Musakhan", "fr": "Musakhan" },
+      "region": { "ar": "شمال فلسطين", "en": "Northern Palestine", "fr": "Nord de la Palestine" },
+      "desc": {
+        "ar": "الطبق الوطني الفلسطيني: دجاج محمّر فوق خبز الطابون مع البصل والسمّاق وزيت زيتون فاخر.",
+        "en": "Palestine's national dish: roasted chicken atop taboon bread with caramelized onions, sumac, and rich olive oil.",
+        "fr": "Le plat national palestinien : poulet rôti sur pain taboun, oignons caramélisés, sumac et huile d'olive."
+      }
+    },
+    {
+      "id": "maqluba",
+      "query": "Maqluba palestinian dish",
+      "name": { "ar": "المقلوبة", "en": "Maqluba", "fr": "Maqlouba" },
+      "region": { "ar": "القدس والخليل", "en": "Jerusalem & Hebron", "fr": "Jérusalem & Hébron" },
+      "desc": {
+        "ar": "أرز وخضار ولحم يُقلَب على الطبق كأنه نُصب معماري. اسمها يعني 'المقلوبة'.",
+        "en": "Rice, vegetables and meat flipped onto the plate like an edible monument. The name literally means 'upside-down'.",
+        "fr": "Riz, légumes et viande renversés dans le plat comme un monument comestible."
+      }
+    },
+    {
+      "id": "knafeh",
+      "query": "Knafeh Nabulsieh",
+      "name": { "ar": "الكنافة النابلسية", "en": "Knafeh Nabulsieh", "fr": "Knafeh de Naplouse" },
+      "region": { "ar": "نابلس", "en": "Nablus", "fr": "Naplouse" },
+      "desc": {
+        "ar": "حلوى نابلس الذهبية: جبنة عكاوي طازجة تحت طبقة من الشعيرات الحمراء والقطر.",
+        "en": "Nablus's golden glory: fresh Akkawi cheese under crisp red shredded pastry, drenched in syrup.",
+        "fr": "La gloire dorée de Naplouse : fromage Akkawi frais sous pâte rouge croustillante et sirop."
+      }
+    },
+    {
+      "id": "mansaf",
+      "query": "Mansaf dish",
+      "name": { "ar": "المنسف", "en": "Mansaf", "fr": "Mansaf" },
+      "region": { "ar": "بلاد الشام", "en": "The Levant", "fr": "Le Levant" },
+      "desc": {
+        "ar": "طبق المناسبات: لحم خروف يُطهى في جميد، يُقدَّم على الأرز والخبز.",
+        "en": "The dish of weddings and funerals — lamb slow-cooked in jameed yogurt, served over rice and bread.",
+        "fr": "Le plat des grandes occasions : agneau mijoté dans le jameed, servi sur riz et pain."
+      }
+    },
+    {
+      "id": "msabaha",
+      "query": "Hummus Palestinian",
+      "name": { "ar": "الحمص والمسبّحة", "en": "Hummus & Msabaha", "fr": "Houmous & Msabaha" },
+      "region": { "ar": "كل فلسطين", "en": "All of Palestine", "fr": "Toute la Palestine" },
+      "desc": {
+        "ar": "الإفطار المقدّس: حبّات حمّص دافئة في طحينة وليمون وزيت زيتون.",
+        "en": "The sacred breakfast: warm chickpeas in tahini, lemon, and a flood of olive oil.",
+        "fr": "Le petit-déjeuner sacré : pois chiches chauds dans tahini, citron et huile d'olive."
+      }
+    },
+    {
+      "id": "maftoul",
+      "query": "Maftoul couscous",
+      "name": { "ar": "المفتول", "en": "Maftoul", "fr": "Maftoul" },
+      "region": { "ar": "الريف الفلسطيني", "en": "Palestinian countryside", "fr": "Campagne palestinienne" },
+      "desc": {
+        "ar": "كسكس فلسطيني يُفتل باليد، يُقدَّم مع الدجاج والحمص ومرق غني بالبصل والبهارات.",
+        "en": "Hand-rolled Palestinian couscous, served with chicken, chickpeas, and a spiced onion broth.",
+        "fr": "Couscous palestinien roulé à la main, servi avec poulet, pois chiches et bouillon épicé."
+      }
+    }
+  ]
+}
