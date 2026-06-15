@@ -12,6 +12,8 @@ import { SmartImage } from "@/components/media/SmartImage";
 import { useCountUp } from "@/hooks/useCountUp";
 import { Button } from "@/components/ui/button";
 import { Dialog, DialogContent, DialogDescription, DialogHeader, DialogTitle } from "@/components/ui/dialog";
+import { OccupationCounter } from "@/components/home/OccupationCounter";
+import { DailyQuote } from "@/components/home/DailyQuote";
 
 
 export const Route = createFileRoute("/")({
@@ -121,6 +123,11 @@ function HomePage() {
       </section>
 
       <PageTransition>
+        {/* OCCUPATION COUNTER */}
+        <section className="mb-16">
+          <OccupationCounter />
+        </section>
+
         {/* COUNTERS */}
         <section className="mb-20">
           <SectionHeading
@@ -213,6 +220,10 @@ function HomePage() {
               {t("nav.gallery")}
             </Link>
           </div>
+        </section>
+        {/* DAILY QUOTE */}
+        <section className="mb-16">
+          <DailyQuote />
         </section>
       </PageTransition>
     </>
