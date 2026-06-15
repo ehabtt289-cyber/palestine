@@ -1,0 +1,100 @@
+{
+  "martyrs": [
+    {
+      "id": "abdel-qader",
+      "query": "Abd al-Qader al-Husseini",
+      "name": { "ar": "عبد القادر الحسيني", "en": "Abd al-Qader al-Husseini", "fr": "Abd al-Qader al-Husseini" },
+      "years": "1907 – 1948",
+      "role": { "ar": "قائد عسكري في حرب 1948", "en": "Military commander, 1948 war", "fr": "Commandant militaire, guerre de 1948" },
+      "bio": {
+        "ar": "قائد جيش الجهاد المقدس، استشهد في معركة القسطل دفاعاً عن القدس في 8 أبريل 1948.",
+        "en": "Commander of the Holy War Army; martyred in the Battle of al-Qastal defending Jerusalem on 8 April 1948.",
+        "fr": "Commandant de l'Armée de la Guerre Sainte ; martyr lors de la bataille d'al-Qastal le 8 avril 1948."
+      }
+    },
+    {
+      "id": "ghassan-kanafani",
+      "query": "Ghassan Kanafani",
+      "name": { "ar": "غسان كنفاني", "en": "Ghassan Kanafani", "fr": "Ghassan Kanafani" },
+      "years": "1936 – 1972",
+      "role": { "ar": "أديب وروائي ومناضل", "en": "Writer, novelist, militant", "fr": "Écrivain et militant" },
+      "bio": {
+        "ar": "روائي فلسطيني عملاق وناطق باسم الجبهة الشعبية، اغتيل بسيارة مفخخة في بيروت في 8 يوليو 1972.",
+        "en": "A literary giant and PFLP spokesperson; assassinated by a car bomb in Beirut on 8 July 1972.",
+        "fr": "Géant littéraire et porte-parole du FPLP ; assassiné par une voiture piégée à Beyrouth le 8 juillet 1972."
+      }
+    },
+    {
+      "id": "naji-al-ali",
+      "query": "Naji al-Ali",
+      "name": { "ar": "ناجي العلي", "en": "Naji al-Ali", "fr": "Naji al-Ali" },
+      "years": "1938 – 1987",
+      "role": { "ar": "رسام كاريكاتير، مبتكر شخصية حنظلة", "en": "Cartoonist, creator of Handala", "fr": "Caricaturiste, créateur de Handala" },
+      "bio": {
+        "ar": "ضمير فلسطين بريشته. اغتيل في لندن في 29 أغسطس 1987 بعد رسم أكثر من 40,000 كاريكاتير.",
+        "en": "Palestine's conscience with a pen. Assassinated in London on 29 August 1987 after drawing over 40,000 cartoons.",
+        "fr": "La conscience de la Palestine au crayon. Assassiné à Londres le 29 août 1987."
+      }
+    },
+    {
+      "id": "yahya-ayyash",
+      "query": "Yahya Ayyash",
+      "name": { "ar": "يحيى عيّاش", "en": "Yahya Ayyash", "fr": "Yahya Ayyash" },
+      "years": "1966 – 1996",
+      "role": { "ar": "مهندس", "en": "Engineer", "fr": "Ingénieur" },
+      "bio": {
+        "ar": "اغتيل في غزة في 5 يناير 1996 بهاتف مفخخ. لُقّب بـ'المهندس'.",
+        "en": "Assassinated in Gaza on 5 January 1996 by a booby-trapped phone. Known as 'The Engineer'.",
+        "fr": "Assassiné à Gaza le 5 janvier 1996 par un téléphone piégé."
+      }
+    },
+    {
+      "id": "ahmed-yassin",
+      "query": "Ahmed Yassin sheikh",
+      "name": { "ar": "الشيخ أحمد ياسين", "en": "Sheikh Ahmed Yassin", "fr": "Cheikh Ahmed Yassine" },
+      "years": "1937 – 2004",
+      "role": { "ar": "مؤسس حركة حماس", "en": "Founder of Hamas", "fr": "Fondateur du Hamas" },
+      "bio": {
+        "ar": "مؤسس حركة حماس ومرجعها الروحي، استشهد بصاروخ إسرائيلي وهو في كرسيه المتحرك بعد صلاة الفجر في 22 مارس 2004.",
+        "en": "Founder and spiritual leader of Hamas; martyred by an Israeli missile while in his wheelchair after dawn prayer on 22 March 2004.",
+        "fr": "Fondateur et guide spirituel du Hamas ; martyr d'un missile israélien dans son fauteuil roulant le 22 mars 2004."
+      }
+    },
+    {
+      "id": "rachel-corrie",
+      "query": "Rachel Corrie",
+      "name": { "ar": "راشيل كوري", "en": "Rachel Corrie", "fr": "Rachel Corrie" },
+      "years": "1979 – 2003",
+      "role": { "ar": "ناشطة أمريكية متضامنة", "en": "American solidarity activist", "fr": "Militante américaine solidaire" },
+      "bio": {
+        "ar": "ناشطة أمريكية شابة دهستها جرافة عسكرية إسرائيلية في رفح في 16 مارس 2003 وهي تحاول منع هدم بيت فلسطيني.",
+        "en": "A young American activist crushed by an Israeli military bulldozer in Rafah on 16 March 2003, while protecting a Palestinian home from demolition.",
+        "fr": "Jeune militante américaine écrasée par un bulldozer israélien à Rafah le 16 mars 2003, en défendant une maison palestinienne."
+      }
+    },
+    {
+      "id": "shireen",
+      "query": "Shireen Abu Akleh journalist",
+      "name": { "ar": "شيرين أبو عاقلة", "en": "Shireen Abu Akleh", "fr": "Shireen Abu Akleh" },
+      "years": "1971 – 2022",
+      "role": { "ar": "صحفية الجزيرة", "en": "Al Jazeera journalist", "fr": "Journaliste d'Al Jazeera" },
+      "bio": {
+        "ar": "أيقونة الصحافة الفلسطينية، استشهدت برصاصة قناص إسرائيلي في رأسها وهي تغطّي اقتحام جنين في 11 مايو 2022.",
+        "en": "Icon of Palestinian journalism; shot in the head by an Israeli sniper while covering the Jenin raid on 11 May 2022.",
+        "fr": "Icône du journalisme palestinien ; tuée par un tireur israélien à Jénine le 11 mai 2022."
+      }
+    },
+    {
+      "id": "refaat",
+      "query": "Refaat Alareer",
+      "name": { "ar": "رفعت العرعير", "en": "Refaat Alareer", "fr": "Refaat Alareer" },
+      "years": "1979 – 2023",
+      "role": { "ar": "أكاديمي وشاعر من غزة", "en": "Academic and poet from Gaza", "fr": "Universitaire et poète de Gaza" },
+      "bio": {
+        "ar": "أستاذ الأدب في الجامعة الإسلامية بغزة وصاحب قصيدة 'إذا كان لا بد أن أموت'. استشهد في 6 ديسمبر 2023.",
+        "en": "Professor of literature at the Islamic University of Gaza and author of 'If I Must Die'. Martyred on 6 December 2023.",
+        "fr": "Professeur de littérature à l'Université islamique de Gaza et auteur de 'Si je dois mourir'. Martyr le 6 décembre 2023."
+      }
+    }
+  ]
+}

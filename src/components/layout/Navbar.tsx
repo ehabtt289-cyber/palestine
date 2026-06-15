@@ -27,8 +27,11 @@ export function Navbar() {
     { to: "/map", label: t("nav.map") },
     { to: "/gallery", label: t("nav.gallery") },
     { to: "/figures", label: t("nav.figures") },
+    { to: "/martyrs", label: t("nav.martyrs") },
     { to: "/statistics", label: t("nav.statistics") },
     { to: "/culture", label: t("nav.culture") },
+    { to: "/cuisine", label: t("nav.cuisine") },
+    { to: "/proverbs", label: t("nav.proverbs") },
     { to: "/about", label: t("nav.about") },
   ];
 
